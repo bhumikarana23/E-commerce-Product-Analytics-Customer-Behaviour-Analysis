@@ -1,0 +1,6 @@
+check,issue_count
+events_customer_not_found,0
+events_product_not_found,0
+orders_customer_not_found,0
+items_order_not_found,0
+items_product_not_found,0

@@ -1,0 +1,9 @@
+KPI,value
+Total customers,10000.0
+Total products,1000.0
+Total sessions,30000.0
+Total orders,3662.0
+Delivered-order AOV (INR),2791.48
+Session-to-purchase conversion (%),12.21
+Cart abandonment (%),64.52
+Checkout abandonment (%),38.85

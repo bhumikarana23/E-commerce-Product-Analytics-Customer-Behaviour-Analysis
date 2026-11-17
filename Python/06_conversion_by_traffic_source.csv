@@ -1,0 +1,7 @@
+traffic_source,sessions,product_view_sessions,cart_sessions,checkout_sessions,purchase_sessions,session_to_purchase_pct
+Direct,4728,4728,1592,894,548,11.59
+Email,3974,3974,1342,794,500,12.58
+Organic Search,7522,7522,2628,1552,944,12.55
+Paid Search,5356,5356,1842,1043,629,11.74
+Referral,3031,3031,1055,611,370,12.21
+Social,5389,5389,1861,1095,671,12.45

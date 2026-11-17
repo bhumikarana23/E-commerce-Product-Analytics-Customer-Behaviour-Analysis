@@ -1,0 +1,1001 @@
+product_id,product_name,category,subcategory,brand,gender_segment,list_price_inr,discount_percent,rating,review_count,inventory_status,selling_price_inr,views,view_sessions,cart_adds,cart_sessions,units_sold,item_revenue_inr,view_to_cart_pct
+PROD00163,Street Theory Footwear 0163,Men,Footwear,PureForm,Men,7493,20,4.1,1193,In Stock,5994,91,91,16,16,13.0,77922.0,17.58
+PROD00706,Tiny Trails Watche 0706,Men,Watches,GlowLab,Kids,8694,10,3.6,3082,In Stock,7825,76,76,14,14,9.0,70425.0,18.42
+PROD00320,Street Theory Footwear 0320,Women,Footwear,Urban Thread,Men,5387,15,4.3,4712,In Stock,4579,89,89,15,15,15.0,68685.0,16.85
+PROD00293,Tiny Trails Fragrance 0293,Beauty,Fragrance,Urban Thread,Women,6705,10,3.7,4348,In Stock,6034,72,72,10,10,11.0,66374.0,13.89
+PROD00413,Urban Thread Footwear 0413,Men,Footwear,Tiny Trails,Women,8913,30,3.8,98,In Stock,6239,72,72,14,14,10.0,62390.0,19.44
+PROD00478,Tiny Trails Ethnic Wear 0478,Men,Ethnic Wear,Street Theory,Men,7337,25,3.7,3633,In Stock,5503,64,64,11,11,11.0,60533.0,17.19
+PROD00982,Nova Living Footwear 0982,Women,Footwear,Tiny Trails,Women,7274,0,3.6,1954,In Stock,7274,69,69,9,9,8.0,58192.0,13.04
+PROD00271,Tiny Trails Footwear 0271,Women,Footwear,Street Theory,Men,8937,20,4.5,4955,In Stock,7150,77,77,11,11,8.0,57200.0,14.29
+PROD00859,Everyday Edit Storage 0859,Home,Storage,ModeCraft,Women,7806,10,3.7,1092,In Stock,7025,70,70,6,6,8.0,56200.0,8.57
+PROD00967,ModeCraft Fragrance 0967,Beauty,Fragrance,Northline,Kids,8805,10,4.0,1957,In Stock,7924,79,79,9,9,7.0,55468.0,11.39
+PROD00160,Aurelia Lane Handbag 0160,Women,Handbags,ColorPop,Women,6904,20,4.3,3358,Low Stock,5523,66,66,9,9,10.0,55230.0,13.64
+PROD00315,PureForm Shirt 0315,Men,Shirts,Aurelia Lane,Kids,6714,10,4.0,1011,In Stock,6043,85,85,13,13,9.0,54387.0,15.29
+PROD00565,Northline Ethnic Set 0565,Women,Ethnic Sets,Street Theory,Women,8564,10,2.8,1325,Low Stock,7708,75,75,14,14,7.0,53956.0,18.67
+PROD00004,ColorPop Ethnic Set 0004,Women,Ethnic Sets,House of Loom,Men,7346,10,4.1,1282,In Stock,6611,80,80,13,13,8.0,52888.0,16.25
+PROD00362,Aurelia Lane Ethnic Wear 0362,Men,Ethnic Wear,Northline,Women,7081,20,4.3,3191,In Stock,5665,86,86,14,14,9.0,50985.0,16.28
+PROD00265,Urban Thread Footwear 0265,Women,Footwear,Tiny Trails,Women,8067,25,4.1,119,In Stock,6050,90,90,11,11,8.0,48400.0,12.22
+PROD00569,Everyday Edit Jean 0569,Men,Jeans,ColorPop,Men,7157,25,4.8,118,In Stock,5368,83,83,14,14,9.0,48312.0,16.87
+PROD00697,House of Loom Storage 0697,Home,Storage,GlowLab,Women,7629,30,3.8,4347,In Stock,5340,90,90,18,18,9.0,48060.0,20.0
+PROD00132,Tiny Trails T-Shirt 0132,Men,T-Shirts,Urban Thread,Men,6999,15,4.2,4646,Low Stock,5949,77,77,9,9,8.0,47592.0,11.69
+PROD00602,House of Loom Dresse 0602,Women,Dresses,ColorPop,Men,4322,10,4.5,1080,In Stock,3890,84,84,13,13,12.0,46680.0,15.48
+PROD00758,Everyday Edit Jean 0758,Women,Jeans,Northline,Men,5733,20,4.4,3865,Out of Stock,4586,90,90,12,12,10.0,45860.0,13.33
+PROD00385,ModeCraft Skincare 0385,Beauty,Skincare,Tiny Trails,Women,7566,0,3.7,5000,In Stock,7566,66,66,7,7,6.0,45396.0,10.61
+PROD00691,GlowLab Watche 0691,Men,Watches,GlowLab,Women,4354,20,4.1,3678,In Stock,3483,78,78,8,8,13.0,45279.0,10.26
+PROD00157,Urban Thread Dresse 0157,Women,Dresses,Aurelia Lane,Unisex,8065,20,3.4,4740,Low Stock,6452,83,83,9,9,7.0,45164.0,10.84
+PROD00610,Urban Thread Ethnic Wear 0610,Men,Ethnic Wear,Nova Living,Women,5011,10,4.1,4816,In Stock,4510,73,73,11,11,10.0,45100.0,15.07
+PROD00392,Street Theory Jean 0392,Men,Jeans,Northline,Women,6003,25,4.3,4259,In Stock,4502,90,90,15,15,10.0,45020.0,16.67
+PROD00522,Everyday Edit Ethnic Set 0522,Women,Ethnic Sets,Urban Thread,Women,6734,5,3.3,4565,In Stock,6397,82,82,9,9,7.0,44779.0,10.98
+PROD00600,Nova Living Top 0600,Women,Tops,Urban Thread,Women,6778,40,3.7,2230,In Stock,4067,73,73,13,13,11.0,44737.0,17.81
+PROD00013,Aurelia Lane Footwear 0013,Women,Footwear,GlowLab,Kids,6368,0,2.9,2384,In Stock,6368,64,64,7,7,7.0,44576.0,10.94
+PROD00425,PureForm Ethnic Wear 0425,Men,Ethnic Wear,Street Theory,Men,6077,10,3.9,4708,Out of Stock,5469,70,70,18,18,8.0,43752.0,25.71
+PROD00225,ModeCraft Top 0225,Women,Tops,ColorPop,Kids,8506,15,4.4,4107,Low Stock,7230,63,63,10,10,6.0,43380.0,15.87
+PROD00044,Northline Footwear 0044,Women,Footwear,Street Theory,Men,5974,20,3.1,2219,Low Stock,4779,74,74,6,6,9.0,43011.0,8.11
+PROD00718,ColorPop Skincare 0718,Beauty,Skincare,Aurelia Lane,Men,4214,15,3.6,4731,Out of Stock,3582,74,74,13,13,12.0,42984.0,17.57
+PROD00332,GlowLab Storage 0332,Home,Storage,Street Theory,Women,8740,30,3.5,4183,In Stock,6118,77,77,11,11,7.0,42826.0,14.29
+PROD00106,Aurelia Lane Ethnic Wear 0106,Men,Ethnic Wear,Tiny Trails,Women,6112,0,4.3,1526,Low Stock,6112,82,82,10,10,7.0,42784.0,12.2
+PROD00940,House of Loom T-Shirt 0940,Men,T-Shirts,Nova Living,Women,5271,10,3.1,3210,In Stock,4744,78,78,10,10,9.0,42696.0,12.82
+PROD00585,Nova Living Footwear 0585,Men,Footwear,Urban Thread,Women,6208,15,4.6,1767,Low Stock,5277,81,81,15,15,8.0,42216.0,18.52
+PROD00750,Aurelia Lane Jean 0750,Men,Jeans,GlowLab,Unisex,5849,20,3.7,2872,In Stock,4679,78,78,14,14,9.0,42111.0,17.95
+PROD00109,House of Loom Bedsheet 0109,Home,Bedsheets,Northline,Women,5775,10,3.8,3504,In Stock,5198,82,82,15,15,8.0,41584.0,18.29
+PROD00116,Tiny Trails Haircare 0116,Beauty,Haircare,Street Theory,Women,8043,15,4.1,4845,In Stock,6837,70,70,10,10,6.0,41022.0,14.29
+PROD00030,Aurelia Lane Shirt 0030,Men,Shirts,ColorPop,Men,8520,20,3.8,1075,In Stock,6816,80,80,10,10,6.0,40896.0,12.5
+PROD00007,Aurelia Lane Footwear 0007,Men,Footwear,House of Loom,Unisex,6336,20,3.1,2896,In Stock,5069,78,78,13,13,8.0,40552.0,16.67
+PROD00421,Urban Thread Footwear 0421,Women,Footwear,GlowLab,Women,5566,10,4.3,2794,In Stock,5009,65,65,10,10,8.0,40072.0,15.38
+PROD00685,GlowLab Kurta 0685,Women,Kurtas,GlowLab,Women,4803,25,3.0,3565,In Stock,3602,77,77,15,15,11.0,39622.0,19.48
+PROD00996,House of Loom Skincare 0996,Beauty,Skincare,Aurelia Lane,Kids,7075,20,3.4,788,In Stock,5660,91,91,15,15,7.0,39620.0,16.48
+PROD00528,Everyday Edit Watche 0528,Men,Watches,Nova Living,Kids,4231,15,4.0,1976,In Stock,3596,83,83,13,13,11.0,39556.0,15.66
+PROD00179,Everyday Edit Haircare 0179,Beauty,Haircare,ModeCraft,Unisex,5417,10,3.4,1814,In Stock,4875,90,90,12,12,8.0,39000.0,13.33
+PROD00230,Nova Living Handbag 0230,Women,Handbags,House of Loom,Women,6175,10,3.5,3146,In Stock,5558,88,88,7,7,7.0,38906.0,7.95
+PROD00651,Everyday Edit Skincare 0651,Beauty,Skincare,Urban Thread,Kids,6930,20,4.5,4027,In Stock,5544,75,75,12,12,7.0,38808.0,16.0
+PROD00295,PureForm Handbag 0295,Women,Handbags,Northline,Women,4745,10,3.9,1251,Low Stock,4270,67,67,10,10,9.0,38430.0,14.93
+PROD00235,Street Theory Jean 0235,Women,Jeans,Street Theory,Men,7997,40,4.0,374,In Stock,4798,80,80,9,9,8.0,38384.0,11.25
+PROD00732,Urban Thread Ethnic Wear 0732,Men,Ethnic Wear,PureForm,Unisex,7284,25,4.0,630,In Stock,5463,80,80,9,9,7.0,38241.0,11.25
+PROD00390,Tiny Trails T-Shirt 0390,Men,T-Shirts,Aurelia Lane,Women,7888,20,4.8,2418,In Stock,6310,67,67,9,9,6.0,37860.0,13.43
+PROD00908,ModeCraft Dresse 0908,Women,Dresses,Everyday Edit,Women,6007,10,4.5,4785,In Stock,5406,82,82,8,8,7.0,37842.0,9.76
+PROD00475,Street Theory Jean 0475,Women,Jeans,PureForm,Men,4718,0,3.6,4625,Low Stock,4718,74,74,14,14,8.0,37744.0,18.92
+PROD00156,House of Loom Footwear 0156,Kids,Footwear,Aurelia Lane,Unisex,6692,30,4.5,4914,Low Stock,4684,79,79,11,11,8.0,37472.0,13.92
+PROD00208,Urban Thread Footwear 0208,Kids,Footwear,Street Theory,Women,7402,0,3.2,1329,In Stock,7402,63,63,11,11,5.0,37010.0,17.46
+PROD00893,PureForm Watche 0893,Men,Watches,Nova Living,Men,6133,25,3.8,1612,In Stock,4600,68,68,7,7,8.0,36800.0,10.29
+PROD00134,Tiny Trails T-Shirt 0134,Kids,T-Shirts,Everyday Edit,Unisex,4449,25,4.2,2278,Low Stock,3337,85,85,19,19,11.0,36707.0,22.35
+PROD00477,Nova Living T-Shirt 0477,Kids,T-Shirts,ModeCraft,Women,7188,15,3.5,1308,Low Stock,6110,69,69,11,11,6.0,36660.0,15.94
+PROD00918,PureForm Skincare 0918,Beauty,Skincare,House of Loom,Kids,5057,20,3.8,1390,In Stock,4046,84,84,14,14,9.0,36414.0,16.67
+PROD00267,House of Loom Bedsheet 0267,Home,Bedsheets,Urban Thread,Men,5934,25,4.0,1399,In Stock,4450,80,80,11,11,8.0,35600.0,13.75
+PROD00188,Urban Thread Dresse 0188,Women,Dresses,PureForm,Men,7117,0,4.4,3791,In Stock,7117,84,84,13,13,5.0,35585.0,15.48
+PROD00965,ColorPop Ethnic Set 0965,Women,Ethnic Sets,Everyday Edit,Women,6354,20,3.5,550,In Stock,5083,69,69,13,13,7.0,35581.0,18.84
+PROD00607,GlowLab Dresse 0607,Women,Dresses,Aurelia Lane,Women,4743,25,3.3,3833,In Stock,3557,84,84,10,10,10.0,35570.0,11.9
+PROD00537,ModeCraft Ethnic Set 0537,Women,Ethnic Sets,Aurelia Lane,Unisex,4434,20,4.0,707,In Stock,3547,87,87,13,13,10.0,35470.0,14.94
+PROD00070,ColorPop Footwear 0070,Women,Footwear,ColorPop,Kids,5898,50,4.3,3073,Low Stock,2949,73,73,19,19,12.0,35388.0,26.03
+PROD00851,Urban Thread Footwear 0851,Women,Footwear,ColorPop,Women,6156,5,3.9,330,Low Stock,5848,79,79,10,10,6.0,35088.0,12.66
+PROD00233,Street Theory Haircare 0233,Beauty,Haircare,PureForm,Men,6251,20,3.8,4408,In Stock,5001,85,85,7,7,7.0,35007.0,8.24
+PROD00601,Aurelia Lane Cushion Cover 0601,Home,Cushion Covers,Northline,Kids,3882,0,3.1,4853,Out of Stock,3882,83,83,15,15,9.0,34938.0,18.07
+PROD00655,Nova Living Ethnic Wear 0655,Men,Ethnic Wear,Northline,Kids,7242,20,3.1,1159,In Stock,5794,69,69,11,11,6.0,34764.0,15.94
+PROD00898,Aurelia Lane Ethnic Wear 0898,Men,Ethnic Wear,Urban Thread,Women,6939,0,4.5,3932,Out of Stock,6939,63,63,5,5,5.0,34695.0,7.94
+PROD00847,House of Loom Top 0847,Women,Tops,Urban Thread,Men,6799,50,2.3,1556,In Stock,3400,95,95,9,9,10.0,34000.0,9.47
+PROD00884,GlowLab Handbag 0884,Women,Handbags,ModeCraft,Women,7050,20,4.0,4404,In Stock,5640,57,57,12,12,6.0,33840.0,21.05
+PROD00287,Nova Living Ethnic Set 0287,Women,Ethnic Sets,ColorPop,Men,8053,30,4.7,4537,In Stock,5637,67,67,8,8,6.0,33822.0,11.94
+PROD00937,ModeCraft Jean 0937,Men,Jeans,GlowLab,Women,8044,40,3.3,1518,Low Stock,4826,64,64,10,10,7.0,33782.0,15.62
+PROD00531,Aurelia Lane Top 0531,Women,Tops,Street Theory,Men,8995,25,5.0,460,In Stock,6746,75,75,6,6,5.0,33730.0,8.0
+PROD00889,House of Loom Dresse 0889,Kids,Dresses,ModeCraft,Women,4811,0,3.8,3296,In Stock,4811,68,68,9,9,7.0,33677.0,13.24
+PROD00854,Aurelia Lane Top 0854,Women,Tops,ColorPop,Women,8417,20,4.4,4399,In Stock,6734,79,79,9,9,5.0,33670.0,11.39
+PROD00992,Street Theory Handbag 0992,Women,Handbags,Northline,Men,6993,20,3.9,1352,In Stock,5594,80,80,12,12,6.0,33564.0,15.0
+PROD00509,GlowLab T-Shirt 0509,Men,T-Shirts,Tiny Trails,Women,6193,10,4.1,3370,In Stock,5574,67,67,12,12,6.0,33444.0,17.91
+PROD00950,House of Loom Top 0950,Women,Tops,ModeCraft,Unisex,8580,5,4.7,630,In Stock,8151,86,86,9,9,4.0,32604.0,10.47
+PROD00711,GlowLab Haircare 0711,Beauty,Haircare,PureForm,Women,6785,20,4.6,3373,Out of Stock,5428,76,76,9,9,6.0,32568.0,11.84
+PROD00972,ModeCraft Kurta 0972,Women,Kurtas,Urban Thread,Men,5320,25,3.5,2800,In Stock,3990,67,67,12,12,8.0,31920.0,17.91
+PROD00212,Street Theory Makeup 0212,Beauty,Makeup,Everyday Edit,Women,8828,10,4.7,1205,Low Stock,7945,83,83,12,12,4.0,31780.0,14.46
+PROD00947,Tiny Trails Dresse 0947,Women,Dresses,Aurelia Lane,Women,3944,0,4.4,3698,In Stock,3944,72,72,13,13,8.0,31552.0,18.06
+PROD00635,PureForm Ethnic Set 0635,Women,Ethnic Sets,Urban Thread,Kids,3676,15,4.2,4255,In Stock,3125,72,72,12,12,10.0,31250.0,16.67
+PROD00331,Nova Living Handbag 0331,Women,Handbags,PureForm,Women,4880,20,4.6,1670,In Stock,3904,87,87,13,13,8.0,31232.0,14.94
+PROD00062,Nova Living Top 0062,Women,Tops,GlowLab,Men,5150,0,3.6,1463,In Stock,5150,72,72,10,10,6.0,30900.0,13.89
+PROD00399,Urban Thread Footwear 0399,Kids,Footwear,Nova Living,Unisex,7332,30,3.1,574,Low Stock,5132,79,79,8,8,6.0,30792.0,10.13
+PROD00309,Everyday Edit Ethnic Wear 0309,Men,Ethnic Wear,PureForm,Unisex,4877,10,3.3,2298,In Stock,4389,74,74,8,8,7.0,30723.0,10.81
+PROD00527,House of Loom Bedsheet 0527,Home,Bedsheets,GlowLab,Kids,8711,30,4.7,4808,In Stock,6098,76,76,17,17,5.0,30490.0,22.37
+PROD00048,Street Theory Ethnic Wear 0048,Men,Ethnic Wear,ColorPop,Men,8390,10,4.6,3218,In Stock,7551,80,80,10,10,4.0,30204.0,12.5
+PROD00148,Aurelia Lane Makeup 0148,Beauty,Makeup,Urban Thread,Men,8561,30,3.7,773,In Stock,5993,62,62,12,12,5.0,29965.0,19.35
+PROD00430,Tiny Trails Decor 0430,Home,Decor,Street Theory,Women,6918,15,3.7,673,In Stock,5880,81,81,12,12,5.0,29400.0,14.81
+PROD00611,Aurelia Lane Footwear 0611,Kids,Footwear,House of Loom,Women,3902,25,3.9,4071,Low Stock,2926,84,84,15,15,10.0,29260.0,17.86
+PROD00395,GlowLab Dresse 0395,Women,Dresses,Urban Thread,Women,5851,0,4.6,3230,In Stock,5851,66,66,11,11,5.0,29255.0,16.67
+PROD00312,GlowLab Jean 0312,Women,Jeans,Northline,Kids,6845,15,4.1,133,Low Stock,5818,80,80,10,10,5.0,29090.0,12.5
+PROD00218,Nova Living Ethnic Wear 0218,Men,Ethnic Wear,Street Theory,Men,2975,20,3.7,522,In Stock,2380,78,78,17,17,12.0,28560.0,21.79
+PROD00190,Tiny Trails Ethnic Wear 0190,Men,Ethnic Wear,Nova Living,Women,5055,20,4.5,4895,In Stock,4044,73,73,12,12,7.0,28308.0,16.44
+PROD00411,PureForm Makeup 0411,Beauty,Makeup,Aurelia Lane,Men,7844,40,3.6,3480,Out of Stock,4706,84,84,13,13,6.0,28236.0,15.48
+PROD00167,GlowLab Jean 0167,Women,Jeans,ColorPop,Men,4148,25,3.9,171,In Stock,3111,70,70,10,10,9.0,27999.0,14.29
+PROD00619,Aurelia Lane Ethnic Set 0619,Women,Ethnic Sets,ColorPop,Men,4370,20,3.7,574,Low Stock,3496,82,82,6,6,8.0,27968.0,7.32
+PROD00480,ColorPop Storage 0480,Home,Storage,Urban Thread,Unisex,5723,20,3.2,1797,Out of Stock,4578,78,78,11,11,6.0,27468.0,14.1
+PROD00775,ModeCraft Jean 0775,Men,Jeans,Nova Living,Unisex,3798,10,3.4,1064,In Stock,3418,71,71,9,9,8.0,27344.0,12.68
+PROD00123,Street Theory Handbag 0123,Women,Handbags,House of Loom,Kids,5612,20,5.0,2436,In Stock,4490,68,68,10,10,6.0,26940.0,14.71
+PROD00717,Northline Footwear 0717,Men,Footwear,Aurelia Lane,Women,6374,30,4.0,1891,Out of Stock,4462,80,80,15,15,6.0,26772.0,18.75
+PROD00684,ColorPop Watche 0684,Men,Watches,GlowLab,Kids,4146,20,4.2,3952,In Stock,3317,68,68,10,10,8.0,26536.0,14.71
+PROD00653,GlowLab Makeup 0653,Beauty,Makeup,PureForm,Women,4998,25,3.8,3286,In Stock,3748,62,62,11,11,7.0,26236.0,17.74
+PROD00663,ColorPop Footwear 0663,Women,Footwear,Northline,Women,7281,40,4.6,4730,Low Stock,4369,94,94,18,18,6.0,26214.0,19.15
+PROD00909,House of Loom Watche 0909,Men,Watches,ModeCraft,Unisex,6225,30,3.8,3189,In Stock,4358,71,71,11,11,6.0,26148.0,15.49
+PROD00482,GlowLab Ethnic Wear 0482,Men,Ethnic Wear,Aurelia Lane,Women,8159,20,4.4,4925,In Stock,6527,75,75,10,10,4.0,26108.0,13.33
+PROD00036,ModeCraft Dresse 0036,Women,Dresses,Street Theory,Women,6486,20,3.9,3391,In Stock,5189,61,61,9,9,5.0,25945.0,14.75
+PROD00739,House of Loom Fragrance 0739,Beauty,Fragrance,ModeCraft,Women,4052,20,4.1,366,In Stock,3242,84,84,16,16,8.0,25936.0,19.05
+PROD00424,Urban Thread Dresse 0424,Women,Dresses,Street Theory,Unisex,7137,40,3.8,175,In Stock,4282,85,85,11,11,6.0,25692.0,12.94
+PROD00571,House of Loom Top 0571,Women,Tops,ColorPop,Men,6829,25,5.0,1392,In Stock,5122,74,74,5,5,5.0,25610.0,6.76
+PROD00728,ColorPop Ethnic Set 0728,Women,Ethnic Sets,Street Theory,Men,6396,0,4.4,4895,In Stock,6396,78,78,13,13,4.0,25584.0,16.67
+PROD00268,PureForm Decor 0268,Home,Decor,House of Loom,Women,7285,30,5.0,3742,In Stock,5100,44,44,8,8,5.0,25500.0,18.18
+PROD00254,PureForm Footwear 0254,Men,Footwear,ColorPop,Kids,3514,20,4.6,1217,Low Stock,2811,82,82,17,17,9.0,25299.0,20.73
+PROD00998,PureForm T-Shirt 0998,Men,T-Shirts,ModeCraft,Unisex,4507,20,4.6,4996,In Stock,3606,99,99,13,13,7.0,25242.0,13.13
+PROD00292,Nova Living Dresse 0292,Women,Dresses,Everyday Edit,Men,4482,30,3.8,2461,Out of Stock,3137,83,83,8,8,8.0,25096.0,9.64
+PROD00595,Tiny Trails Watche 0595,Men,Watches,House of Loom,Women,5282,5,3.5,3838,Out of Stock,5018,72,72,9,9,5.0,25090.0,12.5
+PROD00502,Tiny Trails T-Shirt 0502,Kids,T-Shirts,Aurelia Lane,Women,3903,20,4.9,2789,In Stock,3122,81,81,13,13,8.0,24976.0,16.05
+PROD00617,PureForm Handbag 0617,Women,Handbags,House of Loom,Men,2912,15,4.1,2976,In Stock,2475,80,80,19,19,10.0,24750.0,23.75
+PROD00346,Aurelia Lane T-Shirt 0346,Men,T-Shirts,ColorPop,Women,5490,10,3.6,4315,In Stock,4941,79,79,5,5,5.0,24705.0,6.33
+PROD00633,Everyday Edit Dresse 0633,Women,Dresses,Street Theory,Kids,6108,50,4.5,3689,In Stock,3054,80,80,16,16,8.0,24432.0,20.0
+PROD00108,Tiny Trails Dresse 0108,Women,Dresses,Nova Living,Unisex,5739,15,3.9,940,In Stock,4878,77,77,10,10,5.0,24390.0,12.99
+PROD00357,House of Loom Jean 0357,Men,Jeans,Northline,Men,4053,0,3.8,2138,In Stock,4053,71,71,6,6,6.0,24318.0,8.45
+PROD00882,Everyday Edit Decor 0882,Home,Decor,Urban Thread,Men,4959,30,4.5,1709,In Stock,3471,87,87,15,15,7.0,24297.0,17.24
+PROD00970,PureForm Jean 0970,Women,Jeans,GlowLab,Women,4048,0,4.6,584,Low Stock,4048,92,92,16,16,6.0,24288.0,17.39
+PROD00161,Urban Thread Ethnic Set 0161,Women,Ethnic Sets,ModeCraft,Men,3437,30,5.0,550,In Stock,2406,65,65,9,9,10.0,24060.0,13.85
+PROD00221,House of Loom Top 0221,Women,Tops,Nova Living,Women,3320,10,4.9,1381,In Stock,2988,80,80,10,10,8.0,23904.0,12.5
+PROD00275,Everyday Edit Shirt 0275,Men,Shirts,Street Theory,Unisex,3275,20,4.5,3895,In Stock,2620,75,75,17,17,9.0,23580.0,22.67
+PROD00180,ColorPop Top 0180,Women,Tops,PureForm,Kids,7844,25,4.3,1245,Low Stock,5883,69,69,7,7,4.0,23532.0,10.14
+PROD00709,Tiny Trails Bottomwear 0709,Kids,Bottomwear,ColorPop,Men,5592,30,3.9,1766,In Stock,3914,81,81,10,10,6.0,23484.0,12.35
+PROD00423,Aurelia Lane Decor 0423,Home,Decor,Nova Living,Kids,7784,25,3.9,1197,Low Stock,5838,68,68,6,6,4.0,23352.0,8.82
+PROD00740,Tiny Trails Storage 0740,Home,Storage,Nova Living,Men,8336,30,3.9,20,In Stock,5835,71,71,12,12,4.0,23340.0,16.9
+PROD00768,Street Theory Bedsheet 0768,Home,Bedsheets,ModeCraft,Men,3198,10,4.5,296,In Stock,2878,62,62,10,10,8.0,23024.0,16.13
+PROD00311,Street Theory Makeup 0311,Beauty,Makeup,House of Loom,Kids,3408,25,4.2,2737,In Stock,2556,71,71,13,13,9.0,23004.0,18.31
+PROD00284,Nova Living Handbag 0284,Women,Handbags,PureForm,Unisex,5729,20,3.6,1418,Low Stock,4583,82,82,7,7,5.0,22915.0,8.54
+PROD00662,Tiny Trails Dresse 0662,Kids,Dresses,Nova Living,Women,5632,20,4.9,2753,In Stock,4506,76,76,8,8,5.0,22530.0,10.53
+PROD00352,PureForm T-Shirt 0352,Kids,T-Shirts,GlowLab,Men,6626,15,5.0,4342,In Stock,5632,79,79,7,7,4.0,22528.0,8.86
+PROD00536,Street Theory Storage 0536,Home,Storage,Northline,Women,5595,20,3.3,302,In Stock,4476,82,82,12,12,5.0,22380.0,14.63
+PROD00905,ModeCraft Jean 0905,Women,Jeans,ColorPop,Unisex,3642,0,4.7,4757,In Stock,3642,76,76,11,11,6.0,21852.0,14.47
+PROD00954,Tiny Trails Kurta 0954,Women,Kurtas,PureForm,Unisex,5079,15,4.2,2249,In Stock,4317,65,65,13,13,5.0,21585.0,20.0
+PROD00366,ColorPop Ethnic Wear 0366,Men,Ethnic Wear,ModeCraft,Women,5389,0,4.2,4191,In Stock,5389,78,78,15,15,4.0,21556.0,19.23
+PROD00087,Urban Thread Skincare 0087,Beauty,Skincare,Tiny Trails,Unisex,3933,10,4.6,1754,In Stock,3540,77,77,14,14,6.0,21240.0,18.18
+PROD00971,PureForm Kurta 0971,Women,Kurtas,Urban Thread,Kids,2226,5,5.0,2522,In Stock,2115,77,77,12,12,10.0,21150.0,15.58
+PROD00861,Tiny Trails Kurta 0861,Women,Kurtas,PureForm,Women,3520,25,4.4,880,Out of Stock,2640,69,69,13,13,8.0,21120.0,18.84
+PROD00145,GlowLab Decor 0145,Home,Decor,House of Loom,Women,3764,30,3.8,2039,Low Stock,2635,78,78,10,10,8.0,21080.0,12.82
+PROD00541,GlowLab T-Shirt 0541,Kids,T-Shirts,Street Theory,Men,5844,10,4.5,2467,In Stock,5260,67,67,9,9,4.0,21040.0,13.43
+PROD00561,PureForm Ethnic Wear 0561,Men,Ethnic Wear,Everyday Edit,Women,5255,0,4.7,4462,Low Stock,5255,59,59,8,8,4.0,21020.0,13.56
+PROD00917,Northline Handbag 0917,Women,Handbags,GlowLab,Men,4165,0,4.0,2554,In Stock,4165,66,66,9,9,5.0,20825.0,13.64
+PROD00729,Urban Thread Dresse 0729,Women,Dresses,Tiny Trails,Women,5204,20,4.6,2334,In Stock,4163,70,70,15,15,5.0,20815.0,21.43
+PROD00197,GlowLab Shirt 0197,Men,Shirts,Nova Living,Kids,4599,10,4.1,1150,In Stock,4139,78,78,10,10,5.0,20695.0,12.82
+PROD00559,ModeCraft Top 0559,Women,Tops,Everyday Edit,Women,4336,5,5.0,63,Out of Stock,4119,66,66,5,5,5.0,20595.0,7.58
+PROD00796,Tiny Trails Decor 0796,Home,Decor,Tiny Trails,Men,6834,25,4.0,1480,Low Stock,5126,80,80,13,13,4.0,20504.0,16.25
+PROD00169,Northline Shirt 0169,Men,Shirts,PureForm,Men,5106,20,4.3,531,In Stock,4085,86,86,13,13,5.0,20425.0,15.12
+PROD00298,Urban Thread Storage 0298,Home,Storage,ModeCraft,Women,5645,40,3.8,4637,Out of Stock,3387,74,74,13,13,6.0,20322.0,17.57
+PROD00416,ModeCraft Bedsheet 0416,Home,Bedsheets,Street Theory,Unisex,2233,10,3.8,2669,In Stock,2010,75,75,17,17,10.0,20100.0,22.67
+PROD00981,Urban Thread Ethnic Set 0981,Women,Ethnic Sets,ColorPop,Men,3015,5,4.1,1810,Out of Stock,2864,66,66,14,14,7.0,20048.0,21.21
+PROD00111,GlowLab Top 0111,Women,Tops,Street Theory,Women,5500,40,4.6,2183,In Stock,3300,83,83,12,12,6.0,19800.0,14.46
+PROD00027,ModeCraft Dresse 0027,Women,Dresses,House of Loom,Men,7062,30,4.0,3005,In Stock,4943,81,81,6,6,4.0,19772.0,7.41
+PROD00374,House of Loom Makeup 0374,Beauty,Makeup,Northline,Women,8232,20,4.8,3361,In Stock,6586,66,66,11,11,3.0,19758.0,16.67
+PROD00753,Street Theory Handbag 0753,Women,Handbags,Urban Thread,Kids,4107,20,4.4,1335,Low Stock,3286,78,78,10,10,6.0,19716.0,12.82
+PROD00603,PureForm Cushion Cover 0603,Home,Cushion Covers,Nova Living,Men,2898,25,4.1,4604,In Stock,2174,79,79,10,10,9.0,19566.0,12.66
+PROD00631,GlowLab Bottomwear 0631,Kids,Bottomwear,Nova Living,Men,5574,30,4.4,4301,In Stock,3902,79,79,11,11,5.0,19510.0,13.92
+PROD00102,Tiny Trails Footwear 0102,Men,Footwear,Street Theory,Kids,2379,0,4.4,2075,In Stock,2379,80,80,16,16,8.0,19032.0,20.0
+PROD00419,House of Loom Footwear 0419,Men,Footwear,Street Theory,Unisex,5045,25,4.2,2759,In Stock,3784,72,72,9,9,5.0,18920.0,12.5
+PROD00050,Street Theory Jean 0050,Men,Jeans,ModeCraft,Men,7376,15,3.9,2038,In Stock,6270,64,64,7,7,3.0,18810.0,10.94
+PROD00176,ModeCraft Shirt 0176,Men,Shirts,ColorPop,Men,8347,25,3.6,1852,Low Stock,6260,81,81,9,9,3.0,18780.0,11.11
+PROD00562,Street Theory Bottomwear 0562,Kids,Bottomwear,ModeCraft,Unisex,3912,40,5.0,2852,Low Stock,2347,77,77,12,12,8.0,18776.0,15.58
+PROD00734,Tiny Trails Dresse 0734,Kids,Dresses,Street Theory,Women,4460,30,4.2,503,In Stock,3122,81,81,8,8,6.0,18732.0,9.88
+PROD00765,ColorPop Bottomwear 0765,Kids,Bottomwear,Northline,Men,6224,50,3.8,2022,In Stock,3112,80,80,7,7,6.0,18672.0,8.75
+PROD00925,Aurelia Lane Ethnic Wear 0925,Men,Ethnic Wear,Northline,Men,4431,30,4.9,669,In Stock,3102,85,85,18,18,6.0,18612.0,21.18
+PROD00187,Street Theory Ethnic Set 0187,Women,Ethnic Sets,Everyday Edit,Kids,4863,25,4.5,4302,In Stock,3647,74,74,4,4,5.0,18235.0,5.41
+PROD00759,Northline Ethnic Set 0759,Women,Ethnic Sets,Nova Living,Women,4028,10,4.5,1566,Low Stock,3625,60,60,6,6,5.0,18125.0,10.0
+PROD00427,Urban Thread Top 0427,Women,Tops,Everyday Edit,Men,5017,10,3.0,1965,Low Stock,4515,65,65,12,12,4.0,18060.0,18.46
+PROD00064,House of Loom Footwear 0064,Women,Footwear,Everyday Edit,Women,2256,20,4.6,853,In Stock,1805,85,85,16,16,10.0,18050.0,18.82
+PROD00901,ModeCraft Ethnic Wear 0901,Men,Ethnic Wear,Urban Thread,Men,3217,20,4.7,3019,In Stock,2574,76,76,16,16,7.0,18018.0,21.05
+PROD00822,Tiny Trails Footwear 0822,Kids,Footwear,PureForm,Women,5976,25,4.3,3637,In Stock,4482,77,77,10,10,4.0,17928.0,12.99
+PROD00101,ModeCraft Watche 0101,Men,Watches,Northline,Women,2031,20,3.9,809,In Stock,1625,93,93,11,11,11.0,17875.0,11.83
+PROD00525,ModeCraft Top 0525,Women,Tops,GlowLab,Men,2463,20,4.5,2205,In Stock,1970,70,70,7,7,9.0,17730.0,10.0
+PROD00949,ModeCraft Watche 0949,Men,Watches,ColorPop,Women,3358,25,4.4,4114,In Stock,2518,81,81,11,11,7.0,17626.0,13.58
+PROD00496,Street Theory Bottomwear 0496,Kids,Bottomwear,Aurelia Lane,Men,4139,15,4.9,1924,In Stock,3518,76,76,9,9,5.0,17590.0,11.84
+PROD00432,Everyday Edit Top 0432,Women,Tops,Everyday Edit,Women,5111,15,5.0,4676,In Stock,4344,77,77,10,10,4.0,17376.0,12.99
+PROD00325,Everyday Edit Handbag 0325,Women,Handbags,Aurelia Lane,Men,4088,15,3.8,4026,In Stock,3475,83,83,7,7,5.0,17375.0,8.43
+PROD00577,ColorPop Footwear 0577,Women,Footwear,Urban Thread,Men,3208,10,4.1,1145,In Stock,2887,77,77,7,7,6.0,17322.0,9.09
+PROD00596,Northline Footwear 0596,Kids,Footwear,GlowLab,Kids,5084,15,4.0,273,In Stock,4321,69,69,13,13,4.0,17284.0,18.84
+PROD00006,Northline Footwear 0006,Men,Footwear,Everyday Edit,Kids,2385,20,4.3,423,In Stock,1908,88,88,18,18,9.0,17172.0,20.45
+PROD00369,Everyday Edit T-Shirt 0369,Men,T-Shirts,Tiny Trails,Men,2453,30,3.1,674,In Stock,1717,81,81,10,10,10.0,17170.0,12.35
+PROD00319,Aurelia Lane Jean 0319,Women,Jeans,Northline,Men,3058,30,4.3,4397,In Stock,2141,67,67,11,11,8.0,17128.0,16.42
+PROD00237,PureForm Cushion Cover 0237,Home,Cushion Covers,Urban Thread,Women,3770,10,4.2,1026,In Stock,3393,82,82,18,18,5.0,16965.0,21.95
+PROD00304,PureForm Footwear 0304,Men,Footwear,Everyday Edit,Men,2261,50,3.7,186,In Stock,1130,89,89,16,16,15.0,16950.0,17.98
+PROD00506,Northline Handbag 0506,Women,Handbags,Urban Thread,Men,2843,15,4.4,2274,Low Stock,2417,76,76,10,10,7.0,16919.0,13.16
+PROD00624,ColorPop Dresse 0624,Women,Dresses,Aurelia Lane,Men,7481,25,4.6,1240,In Stock,5611,82,82,14,14,3.0,16833.0,17.07
+PROD00211,Nova Living Footwear 0211,Women,Footwear,House of Loom,Men,4176,20,5.0,3021,In Stock,3341,72,72,13,13,5.0,16705.0,18.06
+PROD00515,House of Loom Ethnic Wear 0515,Men,Ethnic Wear,Aurelia Lane,Men,3952,30,3.8,848,Low Stock,2766,65,65,6,6,6.0,16596.0,9.23
+PROD00249,ColorPop T-Shirt 0249,Men,T-Shirts,GlowLab,Women,1658,0,3.9,4703,In Stock,1658,87,87,14,14,10.0,16580.0,16.09
+PROD00306,Tiny Trails Ethnic Wear 0306,Men,Ethnic Wear,Tiny Trails,Unisex,8184,50,4.0,1295,In Stock,4092,75,75,11,11,4.0,16368.0,14.67
+PROD00195,Aurelia Lane Dresse 0195,Women,Dresses,Street Theory,Kids,3897,40,4.2,1047,In Stock,2338,78,78,13,13,7.0,16366.0,16.67
+PROD00836,Northline Kurta 0836,Women,Kurtas,Tiny Trails,Men,1708,5,4.0,4328,Low Stock,1623,71,71,16,16,10.0,16230.0,22.54
+PROD00486,House of Loom Ethnic Set 0486,Women,Ethnic Sets,Urban Thread,Men,2719,15,5.0,4559,In Stock,2311,82,82,16,16,7.0,16177.0,19.51
+PROD00401,Everyday Edit Bedsheet 0401,Home,Bedsheets,Urban Thread,Men,6297,15,3.5,3209,Low Stock,5352,55,55,4,4,3.0,16056.0,7.27
+PROD00781,Northline Shirt 0781,Men,Shirts,Nova Living,Men,5620,5,3.9,2823,Low Stock,5339,75,75,11,11,3.0,16017.0,14.67
+PROD00474,House of Loom Footwear 0474,Kids,Footwear,Everyday Edit,Men,2089,15,4.1,4458,In Stock,1776,57,57,11,11,9.0,15984.0,19.3
+PROD00524,PureForm Kurta 0524,Women,Kurtas,Everyday Edit,Unisex,2526,10,3.5,3128,In Stock,2273,86,86,11,11,7.0,15911.0,12.79
+PROD00127,Aurelia Lane Fragrance 0127,Beauty,Fragrance,Tiny Trails,Women,2328,15,3.6,1453,In Stock,1979,77,77,10,10,8.0,15832.0,12.99
+PROD00920,GlowLab Footwear 0920,Women,Footwear,ColorPop,Unisex,3299,40,3.3,257,In Stock,1979,69,69,12,12,8.0,15832.0,17.39
+PROD00247,PureForm Jean 0247,Women,Jeans,Street Theory,Men,4397,10,3.3,1271,In Stock,3957,68,68,4,4,4.0,15828.0,5.88
+PROD00511,GlowLab Footwear 0511,Men,Footwear,Street Theory,Kids,6531,40,3.8,3111,In Stock,3919,89,89,12,12,4.0,15676.0,13.48
+PROD00858,Northline Dresse 0858,Kids,Dresses,ColorPop,Women,2040,15,4.7,2890,In Stock,1734,67,67,9,9,9.0,15606.0,13.43
+PROD00492,PureForm Decor 0492,Home,Decor,PureForm,Women,4146,25,3.8,4205,Out of Stock,3110,78,78,12,12,5.0,15550.0,15.38
+PROD00526,Aurelia Lane Handbag 0526,Women,Handbags,Street Theory,Women,3236,20,4.1,4765,Low Stock,2589,72,72,9,9,6.0,15534.0,12.5
+PROD00488,Nova Living Decor 0488,Home,Decor,Aurelia Lane,Women,2466,10,4.1,729,In Stock,2219,78,78,14,14,7.0,15533.0,17.95
+PROD00514,GlowLab Handbag 0514,Women,Handbags,ColorPop,Men,4133,25,3.5,954,In Stock,3100,82,82,14,14,5.0,15500.0,17.07
+PROD00181,ModeCraft Jean 0181,Women,Jeans,Northline,Unisex,6175,50,3.6,2529,In Stock,3088,77,77,7,7,5.0,15440.0,9.09
+PROD00853,Aurelia Lane Kurta 0853,Women,Kurtas,Northline,Women,4285,10,5.0,1410,In Stock,3856,74,74,8,8,4.0,15424.0,10.81
+PROD00023,Everyday Edit T-Shirt 0023,Kids,T-Shirts,Nova Living,Women,6771,25,3.9,3183,Low Stock,5078,81,81,8,8,3.0,15234.0,9.88
+PROD00035,Everyday Edit Fragrance 0035,Beauty,Fragrance,Northline,Men,2716,20,4.0,4206,In Stock,2173,66,66,7,7,7.0,15211.0,10.61
+PROD00927,Northline Footwear 0927,Women,Footwear,Street Theory,Unisex,6752,25,4.2,3212,In Stock,5064,74,74,9,9,3.0,15192.0,12.16
+PROD00274,PureForm Dresse 0274,Kids,Dresses,GlowLab,Women,3589,30,4.7,3347,In Stock,2512,80,80,12,12,6.0,15072.0,15.0
+PROD00077,Aurelia Lane Shirt 0077,Men,Shirts,Urban Thread,Men,4698,20,4.7,2280,In Stock,3758,82,82,7,7,4.0,15032.0,8.54
+PROD00177,Aurelia Lane Ethnic Set 0177,Women,Ethnic Sets,Aurelia Lane,Men,1960,15,4.1,1578,In Stock,1666,82,82,17,17,9.0,14994.0,20.73
+PROD00703,ColorPop Dresse 0703,Kids,Dresses,GlowLab,Women,8235,10,4.3,4843,In Stock,7412,81,81,8,8,2.0,14824.0,9.88
+PROD00150,ColorPop T-Shirt 0150,Men,T-Shirts,GlowLab,Kids,4105,10,5.0,4380,In Stock,3694,67,67,6,6,4.0,14776.0,8.96
+PROD00447,GlowLab Ethnic Wear 0447,Men,Ethnic Wear,ColorPop,Men,3661,0,3.4,4733,In Stock,3661,82,82,8,8,4.0,14644.0,9.76
+PROD00692,Tiny Trails Dresse 0692,Women,Dresses,ModeCraft,Women,3246,25,4.8,4119,In Stock,2434,77,77,11,11,6.0,14604.0,14.29
+PROD00313,ColorPop Jean 0313,Men,Jeans,House of Loom,Women,4559,20,3.3,1165,In Stock,3647,76,76,8,8,4.0,14588.0,10.53
+PROD00301,Tiny Trails Handbag 0301,Women,Handbags,Everyday Edit,Men,4846,40,3.7,2920,In Stock,2908,71,71,11,11,5.0,14540.0,15.49
+PROD00809,Everyday Edit Dresse 0809,Women,Dresses,ModeCraft,Men,4839,40,4.0,2742,In Stock,2903,63,63,8,8,5.0,14515.0,12.7
+PROD00445,House of Loom Ethnic Set 0445,Women,Ethnic Sets,GlowLab,Men,3626,20,3.5,4288,In Stock,2901,73,73,9,9,5.0,14505.0,12.33
+PROD00547,Northline Fragrance 0547,Beauty,Fragrance,Urban Thread,Women,4811,25,3.4,1131,In Stock,3608,75,75,6,6,4.0,14432.0,8.0
+PROD00634,Everyday Edit Storage 0634,Home,Storage,Street Theory,Men,4796,50,4.0,822,In Stock,2398,96,96,18,18,6.0,14388.0,18.75
+PROD00375,House of Loom Footwear 0375,Women,Footwear,ModeCraft,Women,3415,30,4.1,4498,Out of Stock,2390,88,88,9,9,6.0,14340.0,10.23
+PROD00675,Urban Thread T-Shirt 0675,Kids,T-Shirts,PureForm,Unisex,5966,20,3.8,2794,In Stock,4773,57,57,7,7,3.0,14319.0,12.28
+PROD00648,ColorPop Ethnic Wear 0648,Men,Ethnic Wear,Tiny Trails,Kids,1572,30,4.4,3924,In Stock,1100,77,77,16,16,13.0,14300.0,20.78
+PROD00256,Nova Living Bottomwear 0256,Kids,Bottomwear,Urban Thread,Women,4714,50,3.8,1039,In Stock,2357,76,76,8,8,6.0,14142.0,10.53
+PROD00534,GlowLab Handbag 0534,Women,Handbags,Nova Living,Men,1955,20,3.8,4888,In Stock,1564,64,64,8,8,9.0,14076.0,12.5
+PROD00654,GlowLab Handbag 0654,Women,Handbags,ColorPop,Women,3126,10,3.4,1882,Low Stock,2813,57,57,10,10,5.0,14065.0,17.54
+PROD00420,PureForm Jean 0420,Women,Jeans,ColorPop,Women,3496,0,3.7,3646,In Stock,3496,82,82,13,13,4.0,13984.0,15.85
+PROD00063,Everyday Edit Dresse 0063,Women,Dresses,PureForm,Women,2325,25,4.3,1810,Low Stock,1744,75,75,8,8,8.0,13952.0,10.67
+PROD00871,Northline Cushion Cover 0871,Home,Cushion Covers,GlowLab,Women,5141,10,3.2,289,In Stock,4627,64,64,6,6,3.0,13881.0,9.38
+PROD00953,Northline Footwear 0953,Women,Footwear,PureForm,Unisex,3702,25,4.5,2143,Out of Stock,2776,78,78,7,7,5.0,13880.0,8.97
+PROD00650,Nova Living Bedsheet 0650,Home,Bedsheets,Everyday Edit,Women,3466,20,3.8,2500,Low Stock,2773,67,67,12,12,5.0,13865.0,17.91
+PROD00848,Everyday Edit Top 0848,Women,Tops,Tiny Trails,Women,3296,30,3.7,1633,In Stock,2307,73,73,10,10,6.0,13842.0,13.7
+PROD00894,Northline T-Shirt 0894,Men,T-Shirts,Aurelia Lane,Women,3274,30,3.5,1991,In Stock,2292,67,67,13,13,6.0,13752.0,19.4
+PROD00098,Aurelia Lane Shirt 0098,Men,Shirts,Northline,Unisex,2543,40,3.9,204,In Stock,1526,75,75,13,13,9.0,13734.0,17.33
+PROD00391,Aurelia Lane Kurta 0391,Women,Kurtas,Aurelia Lane,Men,2280,25,3.1,2097,In Stock,1710,82,82,11,11,8.0,13680.0,13.41
+PROD00888,Nova Living Ethnic Set 0888,Women,Ethnic Sets,Northline,Women,3795,10,4.1,2653,In Stock,3416,74,74,13,13,4.0,13664.0,17.57
+PROD00699,GlowLab Ethnic Set 0699,Women,Ethnic Sets,Nova Living,Men,2440,20,3.5,648,In Stock,1952,81,81,10,10,7.0,13664.0,12.35
+PROD00096,Aurelia Lane Handbag 0096,Women,Handbags,Everyday Edit,Unisex,2672,15,4.2,4114,In Stock,2271,66,66,4,4,6.0,13626.0,6.06
+PROD00512,ModeCraft Skincare 0512,Beauty,Skincare,ColorPop,Kids,1547,20,3.9,887,In Stock,1238,74,74,13,13,11.0,13618.0,17.57
+PROD00016,Street Theory Makeup 0016,Beauty,Makeup,Street Theory,Unisex,2468,50,4.3,2992,In Stock,1234,74,74,10,10,11.0,13574.0,13.51
+PROD00361,Everyday Edit Handbag 0361,Women,Handbags,Tiny Trails,Unisex,3852,30,3.4,487,In Stock,2696,63,63,8,8,5.0,13480.0,12.7
+PROD00343,Everyday Edit Bottomwear 0343,Kids,Bottomwear,PureForm,Men,1667,0,3.2,2082,Low Stock,1667,79,79,11,11,8.0,13336.0,13.92
+PROD00092,House of Loom Top 0092,Women,Tops,Everyday Edit,Men,2371,20,3.2,861,In Stock,1897,74,74,8,8,7.0,13279.0,10.81
+PROD00121,Nova Living T-Shirt 0121,Kids,T-Shirts,Everyday Edit,Men,2761,20,4.1,2284,In Stock,2209,69,69,7,7,6.0,13254.0,10.14
+PROD00196,Aurelia Lane Dresse 0196,Women,Dresses,GlowLab,Unisex,1948,15,3.3,1545,In Stock,1656,71,71,12,12,8.0,13248.0,16.9
+PROD00544,House of Loom Jean 0544,Men,Jeans,Urban Thread,Unisex,2691,30,3.9,4537,In Stock,1884,70,70,11,11,7.0,13188.0,15.71
+PROD00530,Nova Living Ethnic Set 0530,Women,Ethnic Sets,Tiny Trails,Kids,4389,50,3.6,3452,In Stock,2194,66,66,11,11,6.0,13164.0,16.67
+PROD00786,House of Loom Skincare 0786,Beauty,Skincare,Aurelia Lane,Women,2915,10,3.9,1956,In Stock,2624,82,82,9,9,5.0,13120.0,10.98
+PROD00202,PureForm Cushion Cover 0202,Home,Cushion Covers,GlowLab,Men,2079,30,3.4,3592,In Stock,1455,86,86,15,15,9.0,13095.0,17.44
+PROD00543,Tiny Trails Bottomwear 0543,Kids,Bottomwear,Street Theory,Men,2336,30,5.0,4313,Low Stock,1635,84,84,13,13,8.0,13080.0,15.48
+PROD00726,Tiny Trails Jean 0726,Women,Jeans,Northline,Men,1610,10,4.4,736,Out of Stock,1449,73,73,13,13,9.0,13041.0,17.81
+PROD00337,Urban Thread Watche 0337,Men,Watches,PureForm,Kids,2060,10,4.2,2507,In Stock,1854,62,62,13,13,7.0,12978.0,20.97
+PROD00402,Northline Ethnic Wear 0402,Men,Ethnic Wear,Aurelia Lane,Women,1853,30,3.5,80,In Stock,1297,75,75,12,12,10.0,12970.0,16.0
+PROD00870,PureForm Storage 0870,Home,Storage,Urban Thread,Men,2394,10,3.9,3453,Low Stock,2155,80,80,4,4,6.0,12930.0,5.0
+PROD00436,ModeCraft Cushion Cover 0436,Home,Cushion Covers,Urban Thread,Kids,2258,5,3.1,147,In Stock,2145,70,70,12,12,6.0,12870.0,17.14
+PROD00844,House of Loom Jean 0844,Men,Jeans,Aurelia Lane,Women,2160,15,3.8,1441,In Stock,1836,71,71,6,6,7.0,12852.0,8.45
+PROD00911,Aurelia Lane Footwear 0911,Women,Footwear,ModeCraft,Unisex,2031,10,3.3,1363,In Stock,1828,80,80,11,11,7.0,12796.0,13.75
+PROD00657,Street Theory Jean 0657,Men,Jeans,ModeCraft,Men,4257,25,3.7,2788,In Stock,3193,87,87,15,15,4.0,12772.0,17.24
+PROD00865,Northline Jean 0865,Women,Jeans,ColorPop,Women,1759,20,5.0,3739,In Stock,1407,81,81,16,16,9.0,12663.0,19.75
+PROD00040,Aurelia Lane Kurta 0040,Women,Kurtas,Street Theory,Unisex,4213,25,4.0,2312,Out of Stock,3160,44,44,9,9,4.0,12640.0,20.45
+PROD00578,House of Loom Shirt 0578,Men,Shirts,GlowLab,Men,3325,5,3.5,3580,In Stock,3159,68,68,4,4,4.0,12636.0,5.88
+PROD00079,Nova Living Ethnic Wear 0079,Men,Ethnic Wear,GlowLab,Women,1853,15,4.2,2131,In Stock,1575,89,89,18,18,8.0,12600.0,20.22
+PROD00014,ModeCraft Ethnic Wear 0014,Men,Ethnic Wear,Urban Thread,Men,5233,40,4.0,3810,In Stock,3140,63,63,5,5,4.0,12560.0,7.94
+PROD00270,Street Theory Bedsheet 0270,Home,Bedsheets,PureForm,Men,3586,50,3.9,2497,In Stock,1793,75,75,12,12,7.0,12551.0,16.0
+PROD00373,Northline Kurta 0373,Women,Kurtas,Tiny Trails,Kids,3345,25,5.0,3459,In Stock,2509,78,78,13,13,5.0,12545.0,16.67
+PROD00978,House of Loom Shirt 0978,Men,Shirts,Northline,Women,2777,25,3.5,109,In Stock,2083,75,75,7,7,6.0,12498.0,9.33
+PROD00378,Nova Living Footwear 0378,Kids,Footwear,PureForm,Women,1937,20,4.1,3127,In Stock,1550,81,81,10,10,8.0,12400.0,12.35
+PROD00743,GlowLab Ethnic Set 0743,Women,Ethnic Sets,Urban Thread,Women,2918,15,4.2,498,In Stock,2480,79,79,11,11,5.0,12400.0,13.92
+PROD00906,Street Theory Footwear 0906,Men,Footwear,House of Loom,Men,1620,15,4.7,4213,Out of Stock,1377,85,85,10,10,9.0,12393.0,11.76
+PROD00943,Street Theory Jean 0943,Women,Jeans,PureForm,Women,3078,20,3.5,1483,Low Stock,2462,81,81,9,9,5.0,12310.0,11.11
+PROD00138,Northline Ethnic Wear 0138,Men,Ethnic Wear,Aurelia Lane,Men,1536,20,3.3,2491,In Stock,1229,91,91,13,13,10.0,12290.0,14.29
+PROD00088,PureForm Jean 0088,Men,Jeans,Street Theory,Women,5107,40,3.7,1920,In Stock,3064,72,72,11,11,4.0,12256.0,15.28
+PROD00724,Aurelia Lane Storage 0724,Home,Storage,Northline,Women,2306,25,3.8,4414,In Stock,1730,70,70,11,11,7.0,12110.0,15.71
+PROD00899,Aurelia Lane Jean 0899,Women,Jeans,ModeCraft,Women,1210,0,4.4,764,In Stock,1210,64,64,13,13,10.0,12100.0,20.31
+PROD00059,GlowLab Bedsheet 0059,Home,Bedsheets,Everyday Edit,Men,2240,40,4.3,4729,In Stock,1344,78,78,10,10,9.0,12096.0,12.82
+PROD00368,PureForm Watche 0368,Men,Watches,Street Theory,Women,2199,10,3.0,429,In Stock,1979,71,71,9,9,6.0,11874.0,12.68
+PROD00144,Northline Bedsheet 0144,Home,Bedsheets,Urban Thread,Women,2790,15,3.0,3089,In Stock,2372,75,75,9,9,5.0,11860.0,12.0
+PROD00279,Northline Footwear 0279,Women,Footwear,House of Loom,Women,2622,25,3.4,4857,In Stock,1966,81,81,10,10,6.0,11796.0,12.35
+PROD00415,ColorPop Shirt 0415,Men,Shirts,House of Loom,Women,4618,15,3.1,2138,In Stock,3925,77,77,6,6,3.0,11775.0,7.79
+PROD00453,Aurelia Lane Fragrance 0453,Beauty,Fragrance,House of Loom,Women,1763,5,3.4,3447,In Stock,1675,94,94,12,12,7.0,11725.0,12.77
+PROD00122,PureForm Dresse 0122,Women,Dresses,Nova Living,Unisex,1861,10,4.3,4865,In Stock,1675,69,69,10,10,7.0,11725.0,14.49
+PROD00473,Nova Living Shirt 0473,Men,Shirts,Aurelia Lane,Kids,2052,5,3.9,4821,In Stock,1949,68,68,6,6,6.0,11694.0,8.82
+PROD00670,PureForm Cushion Cover 0670,Home,Cushion Covers,ColorPop,Men,2408,20,4.3,4026,In Stock,1926,83,83,11,11,6.0,11556.0,13.25
+PROD00642,GlowLab Decor 0642,Home,Decor,PureForm,Women,2738,30,4.2,2110,In Stock,1917,91,91,9,9,6.0,11502.0,9.89
+PROD00966,GlowLab Ethnic Wear 0966,Men,Ethnic Wear,ColorPop,Unisex,2701,15,4.0,1696,In Stock,2296,67,67,9,9,5.0,11480.0,13.43
+PROD00581,PureForm Top 0581,Women,Tops,Everyday Edit,Women,2244,15,3.8,4806,In Stock,1907,75,75,11,11,6.0,11442.0,14.67
+PROD00829,PureForm T-Shirt 0829,Men,T-Shirts,ModeCraft,Unisex,4730,20,4.2,569,In Stock,3784,102,102,11,11,3.0,11352.0,10.78
+PROD00845,Nova Living Shirt 0845,Men,Shirts,Everyday Edit,Unisex,2702,30,4.5,2237,In Stock,1891,85,85,10,10,6.0,11346.0,11.76
+PROD00219,Nova Living Watche 0219,Men,Watches,ColorPop,Kids,4698,40,4.0,3363,In Stock,2819,69,69,5,5,4.0,11276.0,7.25
+PROD00340,Urban Thread Handbag 0340,Women,Handbags,Nova Living,Men,4681,40,4.6,2333,Out of Stock,2809,81,81,5,5,4.0,11236.0,6.17
+PROD00682,Northline T-Shirt 0682,Men,T-Shirts,Nova Living,Kids,2340,20,4.1,3788,Low Stock,1872,74,74,13,13,6.0,11232.0,17.57
+PROD00737,Street Theory T-Shirt 0737,Kids,T-Shirts,ModeCraft,Kids,2073,10,4.0,4174,Out of Stock,1866,78,78,12,12,6.0,11196.0,15.38
+PROD00370,House of Loom Footwear 0370,Men,Footwear,Urban Thread,Women,2459,25,4.9,4257,In Stock,1844,73,73,12,12,6.0,11064.0,16.44
+PROD00147,Tiny Trails Bottomwear 0147,Kids,Bottomwear,ColorPop,Women,7903,30,3.4,3406,In Stock,5532,60,60,6,6,2.0,11064.0,10.0
+PROD00873,Street Theory Decor 0873,Home,Decor,Tiny Trails,Men,2458,10,3.6,3976,In Stock,2212,79,79,16,16,5.0,11060.0,20.25
+PROD00303,Aurelia Lane Footwear 0303,Men,Footwear,Street Theory,Men,3429,20,4.4,3721,In Stock,2743,76,76,11,11,4.0,10972.0,14.47
+PROD00245,ModeCraft Jean 0245,Men,Jeans,ModeCraft,Women,2024,10,4.4,1099,Out of Stock,1822,88,88,14,14,6.0,10932.0,15.91
+PROD00483,GlowLab Footwear 0483,Men,Footwear,Street Theory,Women,6824,20,3.8,2869,In Stock,5459,65,65,11,11,2.0,10918.0,16.92
+PROD00329,GlowLab Ethnic Set 0329,Women,Ethnic Sets,Nova Living,Women,751,10,3.3,2324,Low Stock,676,69,69,13,13,16.0,10816.0,18.84
+PROD00490,House of Loom Bedsheet 0490,Home,Bedsheets,Tiny Trails,Unisex,1348,0,4.2,1334,In Stock,1348,77,77,10,10,8.0,10784.0,12.99
+PROD00779,Northline Ethnic Wear 0779,Men,Ethnic Wear,Nova Living,Women,4486,20,4.3,3639,In Stock,3589,76,76,11,11,3.0,10767.0,14.47
+PROD00772,Tiny Trails Decor 0772,Home,Decor,Aurelia Lane,Men,2108,15,3.2,3386,In Stock,1792,89,89,12,12,6.0,10752.0,13.48
+PROD00913,ColorPop Ethnic Wear 0913,Men,Ethnic Wear,Tiny Trails,Women,1525,0,3.8,2641,In Stock,1525,67,67,12,12,7.0,10675.0,17.91
+PROD00710,GlowLab Footwear 0710,Men,Footwear,ModeCraft,Women,2080,15,4.3,4708,In Stock,1768,81,81,9,9,6.0,10608.0,11.11
+PROD00824,PureForm Dresse 0824,Women,Dresses,Northline,Men,2942,10,3.5,2604,In Stock,2648,58,58,8,8,4.0,10592.0,13.79
+PROD00773,House of Loom Watche 0773,Men,Watches,GlowLab,Men,5025,30,3.1,4257,In Stock,3518,73,73,13,13,3.0,10554.0,17.81
+PROD00552,Urban Thread Ethnic Wear 0552,Men,Ethnic Wear,Nova Living,Women,1062,10,3.3,3634,In Stock,956,96,96,15,15,11.0,10516.0,15.62
+PROD00951,Street Theory Jean 0951,Women,Jeans,House of Loom,Men,2990,30,4.5,3814,In Stock,2093,79,79,10,10,5.0,10465.0,12.66
+PROD00839,GlowLab Dresse 0839,Women,Dresses,Street Theory,Unisex,2788,25,4.3,1587,In Stock,2091,72,72,4,4,5.0,10455.0,5.56
+PROD00038,Everyday Edit Footwear 0038,Kids,Footwear,Street Theory,Men,2785,25,4.0,663,Low Stock,2089,84,84,9,9,5.0,10445.0,10.71
+PROD00066,ColorPop Ethnic Set 0066,Women,Ethnic Sets,Everyday Edit,Kids,3471,25,3.6,2929,In Stock,2603,84,84,7,7,4.0,10412.0,8.33
+PROD00364,Aurelia Lane Footwear 0364,Women,Footwear,Tiny Trails,Men,2755,25,3.5,287,Low Stock,2066,77,77,9,9,5.0,10330.0,11.69
+PROD00632,Aurelia Lane Footwear 0632,Kids,Footwear,Northline,Women,2294,10,3.7,648,In Stock,2065,81,81,10,10,5.0,10325.0,12.35
+PROD00935,Everyday Edit Storage 0935,Home,Storage,Urban Thread,Women,2861,40,4.6,3709,In Stock,1717,56,56,5,5,6.0,10302.0,8.93
+PROD00448,ModeCraft Dresse 0448,Women,Dresses,ModeCraft,Women,3430,50,3.5,669,Out of Stock,1715,57,57,8,8,6.0,10290.0,14.04
+PROD00589,Street Theory Footwear 0589,Kids,Footwear,Nova Living,Women,1513,15,3.3,3260,In Stock,1286,80,80,9,9,8.0,10288.0,11.25
+PROD00495,Everyday Edit Handbag 0495,Women,Handbags,Northline,Men,4547,25,4.5,644,Low Stock,3410,77,77,5,5,3.0,10230.0,6.49
+PROD00428,Aurelia Lane Footwear 0428,Men,Footwear,Aurelia Lane,Unisex,1996,15,4.6,3537,In Stock,1697,78,78,6,6,6.0,10182.0,7.69
+PROD00712,Aurelia Lane Shirt 0712,Men,Shirts,Everyday Edit,Women,5044,50,4.0,2332,In Stock,2522,74,74,11,11,4.0,10088.0,14.86
+PROD00408,Street Theory Jean 0408,Men,Jeans,House of Loom,Men,1461,15,3.7,1184,Low Stock,1242,74,74,9,9,8.0,9936.0,12.16
+PROD00389,Aurelia Lane T-Shirt 0389,Men,T-Shirts,Everyday Edit,Men,1886,25,3.5,2064,In Stock,1414,86,86,14,14,7.0,9898.0,16.28
+PROD00297,PureForm Footwear 0297,Men,Footwear,Tiny Trails,Women,2472,50,3.8,3315,In Stock,1236,76,76,17,17,8.0,9888.0,22.37
+PROD00318,ModeCraft Skincare 0318,Beauty,Skincare,Northline,Women,3277,40,2.3,4635,In Stock,1966,73,73,11,11,5.0,9830.0,15.07
+PROD00351,PureForm Jean 0351,Men,Jeans,Nova Living,Men,1925,15,4.4,4103,In Stock,1636,62,62,12,12,6.0,9816.0,19.35
+PROD00749,House of Loom Shirt 0749,Men,Shirts,Urban Thread,Women,3593,10,4.6,2153,In Stock,3234,72,72,9,9,3.0,9702.0,12.5
+PROD00513,GlowLab Haircare 0513,Beauty,Haircare,Aurelia Lane,Women,1101,20,3.9,4170,In Stock,881,73,73,17,17,11.0,9691.0,23.29
+PROD00516,PureForm Handbag 0516,Women,Handbags,ModeCraft,Women,2683,10,3.1,3442,Low Stock,2415,66,66,13,13,4.0,9660.0,19.7
+PROD00560,House of Loom Footwear 0560,Men,Footwear,ColorPop,Men,1787,40,3.8,2979,Low Stock,1072,69,69,8,8,9.0,9648.0,11.59
+PROD00704,ColorPop Dresse 0704,Women,Dresses,Urban Thread,Men,2535,5,4.3,3057,In Stock,2408,78,78,12,12,4.0,9632.0,15.38
+PROD00133,Northline Ethnic Wear 0133,Men,Ethnic Wear,Northline,Men,2006,20,4.0,697,In Stock,1605,58,58,5,5,6.0,9630.0,8.62
+PROD00005,ColorPop Ethnic Wear 0005,Men,Ethnic Wear,Tiny Trails,Kids,4801,50,3.3,3671,In Stock,2400,89,89,10,10,4.0,9600.0,11.24
+PROD00020,Urban Thread Kurta 0020,Women,Kurtas,Urban Thread,Women,2554,25,4.7,2225,Low Stock,1916,72,72,8,8,5.0,9580.0,11.11
+PROD00175,House of Loom Ethnic Set 0175,Women,Ethnic Sets,Street Theory,Men,1813,25,4.3,1351,In Stock,1360,83,83,12,12,7.0,9520.0,14.46
+PROD00686,Everyday Edit Top 0686,Women,Tops,ModeCraft,Unisex,1441,40,4.1,2284,Low Stock,865,94,94,11,11,11.0,9515.0,11.7
+PROD00846,PureForm Watche 0846,Men,Watches,GlowLab,Women,2521,25,3.3,4464,In Stock,1891,89,89,12,12,5.0,9455.0,13.48
+PROD00878,Urban Thread Haircare 0878,Beauty,Haircare,Everyday Edit,Men,5249,10,4.6,2680,In Stock,4724,50,50,6,6,2.0,9448.0,12.0
+PROD00314,House of Loom Top 0314,Women,Tops,House of Loom,Unisex,2223,40,4.4,2567,In Stock,1334,61,61,8,8,7.0,9338.0,13.11
+PROD00626,Nova Living Kurta 0626,Women,Kurtas,Street Theory,Kids,1662,20,4.8,4484,In Stock,1330,74,74,13,13,7.0,9310.0,17.57
+PROD00975,Northline Handbag 0975,Women,Handbags,Everyday Edit,Unisex,2585,10,4.8,2472,In Stock,2326,68,68,5,5,4.0,9304.0,7.35
+PROD00203,GlowLab Ethnic Set 0203,Women,Ethnic Sets,Urban Thread,Kids,1008,30,4.1,4391,In Stock,706,72,72,16,16,13.0,9178.0,22.22
+PROD00963,Nova Living Skincare 0963,Beauty,Skincare,Tiny Trails,Kids,1830,0,4.0,133,In Stock,1830,67,67,16,16,5.0,9150.0,23.88
+PROD00850,Aurelia Lane Ethnic Set 0850,Women,Ethnic Sets,Tiny Trails,Kids,6099,25,4.1,4071,In Stock,4574,75,75,11,11,2.0,9148.0,14.67
+PROD00500,Urban Thread Footwear 0500,Kids,Footwear,PureForm,Men,1632,30,3.2,2193,In Stock,1142,61,61,13,13,8.0,9136.0,21.31
+PROD00556,Everyday Edit Dresse 0556,Women,Dresses,Street Theory,Men,2168,40,4.4,4545,In Stock,1301,88,88,14,14,7.0,9107.0,15.91
+PROD00380,GlowLab T-Shirt 0380,Kids,T-Shirts,Urban Thread,Women,1298,0,4.4,4906,In Stock,1298,91,91,14,14,7.0,9086.0,15.38
+PROD00117,Nova Living Handbag 0117,Women,Handbags,Street Theory,Kids,1179,30,4.9,773,In Stock,825,77,77,11,11,11.0,9075.0,14.29
+PROD00573,Street Theory Watche 0573,Men,Watches,GlowLab,Men,1886,20,4.2,1301,In Stock,1509,87,87,11,11,6.0,9054.0,12.64
+PROD00863,Urban Thread Watche 0863,Men,Watches,Street Theory,Kids,2826,20,4.0,225,In Stock,2261,69,69,7,7,4.0,9044.0,10.14
+PROD00426,Urban Thread Watche 0426,Men,Watches,GlowLab,Unisex,2259,50,3.2,4459,In Stock,1130,87,87,17,17,8.0,9040.0,19.54
+PROD00623,ModeCraft Haircare 0623,Beauty,Haircare,Tiny Trails,Unisex,3227,30,4.2,4477,In Stock,2259,64,64,11,11,4.0,9036.0,17.19
+PROD00723,Northline Dresse 0723,Kids,Dresses,House of Loom,Men,1880,20,3.6,1667,In Stock,1504,75,75,13,13,6.0,9024.0,17.33
+PROD00151,Nova Living Footwear 0151,Women,Footwear,House of Loom,Men,1592,30,4.4,4397,In Stock,1114,72,72,9,9,8.0,8912.0,12.5
+PROD00178,ColorPop Haircare 0178,Beauty,Haircare,ColorPop,Women,1307,15,3.8,4424,In Stock,1111,83,83,14,14,8.0,8888.0,16.87
+PROD00001,Urban Thread Decor 0001,Home,Decor,Urban Thread,Men,2216,20,4.3,2593,In Stock,1773,83,83,13,13,5.0,8865.0,15.66
+PROD00184,House of Loom Handbag 0184,Women,Handbags,PureForm,Men,2078,15,4.1,126,In Stock,1766,76,76,9,9,5.0,8830.0,11.84
+PROD00455,ModeCraft Footwear 0455,Women,Footwear,House of Loom,Women,1147,15,4.2,4386,Out of Stock,975,79,79,10,10,9.0,8775.0,12.66
+PROD00835,Street Theory Jean 0835,Men,Jeans,PureForm,Women,4384,0,3.6,85,In Stock,4384,63,63,9,9,2.0,8768.0,14.29
+PROD00461,Everyday Edit Shirt 0461,Men,Shirts,PureForm,Women,3223,10,4.1,4844,In Stock,2901,76,76,8,8,3.0,8703.0,10.53
+PROD00933,Everyday Edit Ethnic Wear 0933,Men,Ethnic Wear,ColorPop,Men,1067,10,4.2,861,In Stock,960,77,77,13,13,9.0,8640.0,16.88
+PROD00234,ColorPop Dresse 0234,Kids,Dresses,Tiny Trails,Women,2468,30,4.0,4474,Low Stock,1728,69,69,10,10,5.0,8640.0,14.49
+PROD00460,Nova Living Cushion Cover 0460,Home,Cushion Covers,Northline,Women,1587,10,4.9,4859,In Stock,1428,79,79,15,15,6.0,8568.0,18.99
+PROD00948,Nova Living Jean 0948,Men,Jeans,House of Loom,Men,1776,20,3.8,4554,In Stock,1421,66,66,9,9,6.0,8526.0,13.64
+PROD00021,ModeCraft Handbag 0021,Women,Handbags,PureForm,Unisex,2656,20,3.9,1792,In Stock,2125,85,85,8,8,4.0,8500.0,9.41
+PROD00213,Tiny Trails Jean 0213,Women,Jeans,GlowLab,Men,2119,20,4.0,2127,In Stock,1695,77,77,8,8,5.0,8475.0,10.39
+PROD00885,Everyday Edit Footwear 0885,Men,Footwear,Aurelia Lane,Men,1690,0,3.5,2420,In Stock,1690,76,76,13,13,5.0,8450.0,17.11
+PROD00744,Northline Jean 0744,Men,Jeans,GlowLab,Women,3520,20,3.3,632,Low Stock,2816,70,70,7,7,3.0,8448.0,10.0
+PROD00756,Urban Thread Footwear 0756,Women,Footwear,Aurelia Lane,Women,1409,15,3.9,2280,In Stock,1198,87,87,11,11,7.0,8386.0,12.64
+PROD00438,House of Loom Watche 0438,Men,Watches,Nova Living,Women,3486,40,4.5,1479,In Stock,2092,64,64,10,10,4.0,8368.0,15.62
+PROD00613,Aurelia Lane Dresse 0613,Kids,Dresses,GlowLab,Men,1490,20,4.2,1864,In Stock,1192,60,60,14,14,7.0,8344.0,23.33
+PROD00223,Nova Living Bottomwear 0223,Kids,Bottomwear,Everyday Edit,Unisex,1388,0,3.4,1472,In Stock,1388,78,78,17,17,6.0,8328.0,21.79
+PROD00467,Nova Living Decor 0467,Home,Decor,PureForm,Men,2062,20,4.0,3433,In Stock,1650,84,84,13,13,5.0,8250.0,15.48
+PROD00533,PureForm T-Shirt 0533,Men,T-Shirts,Aurelia Lane,Men,1938,15,5.0,1951,In Stock,1647,79,79,10,10,5.0,8235.0,12.66
+PROD00222,Nova Living Ethnic Wear 0222,Men,Ethnic Wear,Aurelia Lane,Women,2285,10,4.0,2141,In Stock,2056,83,83,10,10,4.0,8224.0,12.05
+PROD00299,ModeCraft Jean 0299,Women,Jeans,ModeCraft,Women,2713,0,4.5,3815,In Stock,2713,60,60,10,10,3.0,8139.0,16.67
+PROD00472,House of Loom T-Shirt 0472,Men,T-Shirts,Urban Thread,Women,1914,15,4.1,935,In Stock,1627,65,65,8,8,5.0,8135.0,12.31
+PROD00466,ModeCraft Footwear 0466,Men,Footwear,Everyday Edit,Men,1707,5,2.9,177,Low Stock,1622,87,87,11,11,5.0,8110.0,12.64
+PROD00259,Aurelia Lane Decor 0259,Home,Decor,Tiny Trails,Men,2361,15,3.7,4660,In Stock,2007,74,74,12,12,4.0,8028.0,16.22
+PROD00508,Urban Thread Shirt 0508,Men,Shirts,Aurelia Lane,Kids,3546,25,3.5,1638,In Stock,2660,71,71,7,7,3.0,7980.0,9.86
+PROD00110,GlowLab Decor 0110,Home,Decor,Tiny Trails,Men,1476,10,4.5,3818,In Stock,1328,62,62,4,4,6.0,7968.0,6.45
+PROD00258,House of Loom Watche 0258,Men,Watches,Northline,Women,1421,20,3.5,1910,In Stock,1137,71,71,14,14,7.0,7959.0,19.72
+PROD00955,Everyday Edit Ethnic Set 0955,Women,Ethnic Sets,Street Theory,Men,1028,30,4.5,802,In Stock,720,89,89,17,17,11.0,7920.0,19.1
+PROD00457,Street Theory Jean 0457,Women,Jeans,PureForm,Men,1319,25,4.3,2434,Low Stock,989,80,80,15,15,8.0,7912.0,18.75
+PROD00604,PureForm Bottomwear 0604,Kids,Bottomwear,Nova Living,Men,3143,50,3.5,3716,In Stock,1572,90,90,9,9,5.0,7860.0,10.0
+PROD00082,Street Theory Footwear 0082,Men,Footwear,PureForm,Men,1161,25,3.5,4408,In Stock,871,78,78,9,9,9.0,7839.0,11.54
+PROD00677,Everyday Edit Top 0677,Women,Tops,Tiny Trails,Men,1629,20,3.7,876,In Stock,1303,82,82,12,12,6.0,7818.0,14.63
+PROD00752,PureForm Dresse 0752,Women,Dresses,Aurelia Lane,Unisex,2228,30,3.9,3492,In Stock,1560,75,75,14,14,5.0,7800.0,18.67
+PROD00414,ColorPop Ethnic Set 0414,Women,Ethnic Sets,ModeCraft,Women,2775,30,3.8,4492,In Stock,1942,84,84,11,11,4.0,7768.0,13.1
+PROD00358,ColorPop Handbag 0358,Women,Handbags,House of Loom,Women,1138,15,3.6,200,In Stock,967,79,79,6,6,8.0,7736.0,7.59
+PROD00435,Street Theory Skincare 0435,Beauty,Skincare,PureForm,Men,1370,20,4.4,3245,In Stock,1096,83,83,11,11,7.0,7672.0,13.25
+PROD00517,Everyday Edit Jean 0517,Women,Jeans,Street Theory,Women,944,10,4.4,1481,In Stock,850,70,70,13,13,9.0,7650.0,18.57
+PROD00276,House of Loom Jean 0276,Women,Jeans,Everyday Edit,Kids,4765,20,3.6,1869,In Stock,3812,71,71,6,6,2.0,7624.0,8.45
+PROD00326,Aurelia Lane Watche 0326,Men,Watches,Everyday Edit,Women,1452,25,4.0,2574,Out of Stock,1089,69,69,17,17,7.0,7623.0,24.64
+PROD00129,ModeCraft Skincare 0129,Beauty,Skincare,Aurelia Lane,Kids,1408,10,3.5,392,In Stock,1267,84,84,9,9,6.0,7602.0,10.71
+PROD00644,Everyday Edit Fragrance 0644,Beauty,Fragrance,GlowLab,Women,1490,15,3.9,4796,In Stock,1266,89,89,12,12,6.0,7596.0,13.48
+PROD00597,Northline Handbag 0597,Women,Handbags,Northline,Women,1264,25,4.2,3565,In Stock,948,80,80,14,14,8.0,7584.0,17.5
+PROD00986,House of Loom Jean 0986,Men,Jeans,Everyday Edit,Men,1139,5,4.5,1063,In Stock,1082,64,64,10,10,7.0,7574.0,15.62
+PROD00751,Nova Living Footwear 0751,Men,Footwear,Everyday Edit,Men,4991,25,4.2,1383,In Stock,3743,65,65,8,8,2.0,7486.0,12.31
+PROD00549,Aurelia Lane Jean 0549,Men,Jeans,Everyday Edit,Unisex,1336,20,3.2,3314,In Stock,1069,75,75,6,6,7.0,7483.0,8.0
+PROD00330,Aurelia Lane Footwear 0330,Women,Footwear,Urban Thread,Women,1241,15,3.9,570,Low Stock,1055,69,69,8,8,7.0,7385.0,11.59
+PROD00471,Urban Thread T-Shirt 0471,Men,T-Shirts,Everyday Edit,Men,1317,20,4.9,1442,In Stock,1054,61,61,8,8,7.0,7378.0,13.11
+PROD00583,PureForm Jean 0583,Men,Jeans,Northline,Women,4604,20,2.3,1581,Low Stock,3683,63,63,7,7,2.0,7366.0,11.11
+PROD00586,Tiny Trails Footwear 0586,Women,Footwear,PureForm,Women,1469,0,2.6,1427,In Stock,1469,70,70,6,6,5.0,7345.0,8.57
+PROD00300,PureForm Footwear 0300,Women,Footwear,Tiny Trails,Unisex,2931,50,3.2,506,In Stock,1466,74,74,12,12,5.0,7330.0,16.22
+PROD00154,GlowLab Bottomwear 0154,Kids,Bottomwear,Everyday Edit,Women,740,10,3.5,4785,In Stock,666,77,77,12,12,11.0,7326.0,15.58
+PROD00382,PureForm Kurta 0382,Women,Kurtas,House of Loom,Men,1393,25,2.9,3985,In Stock,1045,75,75,10,10,7.0,7315.0,13.33
+PROD00790,Tiny Trails Footwear 0790,Kids,Footwear,Everyday Edit,Men,1609,25,3.6,3038,In Stock,1207,70,70,7,7,6.0,7242.0,10.0
+PROD00465,PureForm Decor 0465,Home,Decor,Northline,Men,1217,15,3.4,4310,In Stock,1034,73,73,7,7,7.0,7238.0,9.59
+PROD00170,PureForm Footwear 0170,Women,Footwear,Everyday Edit,Women,3986,10,3.5,3103,In Stock,3587,80,80,9,9,2.0,7174.0,11.25
+PROD00321,Tiny Trails T-Shirt 0321,Men,T-Shirts,ModeCraft,Women,936,5,3.8,1893,Out of Stock,889,74,74,10,10,8.0,7112.0,13.51
+PROD00243,Tiny Trails Storage 0243,Home,Storage,GlowLab,Women,1421,0,3.8,293,In Stock,1421,78,78,7,7,5.0,7105.0,8.97
+PROD00397,Urban Thread Jean 0397,Women,Jeans,Urban Thread,Women,1122,30,3.5,1729,In Stock,785,86,86,16,16,9.0,7065.0,18.6
+PROD00440,House of Loom Jean 0440,Men,Jeans,Aurelia Lane,Kids,2909,40,3.6,4299,Out of Stock,1745,74,74,6,6,4.0,6980.0,8.11
+PROD00664,ModeCraft Jean 0664,Men,Jeans,Everyday Edit,Men,2491,30,3.0,3257,In Stock,1744,69,69,10,10,4.0,6976.0,14.49
+PROD00843,Aurelia Lane Watche 0843,Men,Watches,Aurelia Lane,Women,3322,30,5.0,3981,Low Stock,2325,73,73,10,10,3.0,6975.0,13.7
+PROD00055,GlowLab Jean 0055,Men,Jeans,GlowLab,Women,1325,25,4.2,3967,In Stock,994,85,85,10,10,7.0,6958.0,11.76
+PROD00658,PureForm Ethnic Set 0658,Women,Ethnic Sets,Nova Living,Women,1380,0,4.2,3063,In Stock,1380,70,70,12,12,5.0,6900.0,17.14
+PROD00286,PureForm Decor 0286,Home,Decor,Northline,Kids,2151,20,4.1,2389,In Stock,1721,71,71,10,10,4.0,6884.0,14.08
+PROD00708,Nova Living Makeup 0708,Beauty,Makeup,ModeCraft,Kids,2128,20,4.1,3650,In Stock,1702,64,64,7,7,4.0,6808.0,10.94
+PROD00812,Tiny Trails Jean 0812,Men,Jeans,Tiny Trails,Men,1600,15,2.8,4081,In Stock,1360,84,84,13,13,5.0,6800.0,15.48
+PROD00767,Northline Dresse 0767,Kids,Dresses,Nova Living,Women,3979,15,3.3,3589,In Stock,3382,76,76,13,13,2.0,6764.0,17.11
+PROD00741,Urban Thread Makeup 0741,Beauty,Makeup,Urban Thread,Women,1409,20,3.7,538,In Stock,1127,72,72,8,8,6.0,6762.0,11.11
+PROD00973,Nova Living T-Shirt 0973,Men,T-Shirts,Northline,Men,2647,15,3.3,1520,Out of Stock,2250,60,60,7,7,3.0,6750.0,11.67
+PROD00294,Everyday Edit T-Shirt 0294,Men,T-Shirts,Urban Thread,Women,1014,5,4.1,2668,Low Stock,963,66,66,8,8,7.0,6741.0,12.12
+PROD00433,House of Loom Ethnic Set 0433,Women,Ethnic Sets,ColorPop,Men,1067,30,3.2,3050,Low Stock,747,75,75,16,16,9.0,6723.0,21.33
+PROD00643,Aurelia Lane Bedsheet 0643,Home,Bedsheets,ColorPop,Men,876,15,4.8,1283,In Stock,745,76,76,12,12,9.0,6705.0,15.79
+PROD00793,ColorPop T-Shirt 0793,Men,T-Shirts,Urban Thread,Men,2227,25,3.9,3695,In Stock,1670,68,68,8,8,4.0,6680.0,11.76
+PROD00398,Everyday Edit Bedsheet 0398,Home,Bedsheets,Everyday Edit,Men,1118,15,3.7,1540,In Stock,950,70,70,11,11,7.0,6650.0,15.71
+PROD00956,Nova Living Ethnic Wear 0956,Men,Ethnic Wear,Street Theory,Men,2458,10,3.4,4997,In Stock,2212,74,74,10,10,3.0,6636.0,13.51
+PROD00903,Tiny Trails Fragrance 0903,Beauty,Fragrance,Northline,Women,2203,0,3.5,0,In Stock,2203,67,67,4,4,3.0,6609.0,5.97
+PROD00599,ColorPop Cushion Cover 0599,Home,Cushion Covers,Urban Thread,Women,1108,15,3.9,4658,In Stock,942,73,73,11,11,7.0,6594.0,15.07
+PROD00910,Northline Top 0910,Women,Tops,Everyday Edit,Women,989,5,3.5,2347,In Stock,940,72,72,14,14,7.0,6580.0,19.44
+PROD00476,Everyday Edit Ethnic Set 0476,Women,Ethnic Sets,PureForm,Unisex,1336,30,3.3,2949,In Stock,935,79,79,13,13,7.0,6545.0,16.46
+PROD00693,Aurelia Lane Bedsheet 0693,Home,Bedsheets,Tiny Trails,Men,764,5,4.2,4186,In Stock,726,75,75,12,12,9.0,6534.0,16.0
+PROD00494,ColorPop Handbag 0494,Women,Handbags,Aurelia Lane,Women,2691,20,4.0,3348,In Stock,2153,78,78,8,8,3.0,6459.0,10.26
+PROD00043,PureForm Top 0043,Women,Tops,Aurelia Lane,Unisex,894,10,3.6,4891,Low Stock,805,65,65,9,9,8.0,6440.0,13.85
+PROD00649,GlowLab Footwear 0649,Women,Footwear,PureForm,Men,5354,40,3.8,2763,In Stock,3212,81,81,8,8,2.0,6424.0,9.88
+PROD00849,Nova Living Fragrance 0849,Beauty,Fragrance,Street Theory,Women,1598,0,3.9,449,Out of Stock,1598,80,80,7,7,4.0,6392.0,8.75
+PROD00785,Everyday Edit Jean 0785,Men,Jeans,Northline,Kids,1992,20,4.4,889,In Stock,1594,61,61,8,8,4.0,6376.0,13.11
+PROD00305,Northline Jean 0305,Women,Jeans,ModeCraft,Men,1594,20,4.6,1409,In Stock,1275,86,86,14,14,5.0,6375.0,16.28
+PROD00864,ModeCraft Dresse 0864,Kids,Dresses,Tiny Trails,Women,1873,15,3.6,2815,Low Stock,1592,71,71,7,7,4.0,6368.0,9.86
+PROD00469,Aurelia Lane Shirt 0469,Men,Shirts,Street Theory,Women,2350,10,4.5,1478,In Stock,2115,64,64,7,7,3.0,6345.0,10.94
+PROD00575,GlowLab Decor 0575,Home,Decor,House of Loom,Women,900,0,3.6,3748,In Stock,900,79,79,13,13,7.0,6300.0,16.46
+PROD00240,ModeCraft Jean 0240,Men,Jeans,ColorPop,Unisex,1742,10,3.8,2373,In Stock,1568,78,78,13,13,4.0,6272.0,16.67
+PROD00360,Nova Living Footwear 0360,Kids,Footwear,ModeCraft,Women,2598,20,4.1,3295,Low Stock,2078,80,80,7,7,3.0,6234.0,8.75
+PROD00104,ModeCraft Watche 0104,Men,Watches,Street Theory,Kids,706,20,3.6,31,Low Stock,565,76,76,7,7,11.0,6215.0,9.21
+PROD00979,ColorPop Skincare 0979,Beauty,Skincare,GlowLab,Kids,2428,15,5.0,1801,In Stock,2064,72,72,8,8,3.0,6192.0,11.11
+PROD00520,Northline Jean 0520,Women,Jeans,Urban Thread,Women,1769,30,4.7,1062,In Stock,1238,64,64,8,8,5.0,6190.0,12.5
+PROD00053,Tiny Trails Ethnic Set 0053,Women,Ethnic Sets,Everyday Edit,Women,1213,15,4.7,2182,In Stock,1031,81,81,9,9,6.0,6186.0,11.11
+PROD00714,Aurelia Lane Handbag 0714,Women,Handbags,Northline,Men,2728,25,4.1,308,In Stock,2046,74,74,9,9,3.0,6138.0,12.16
+PROD00034,Everyday Edit Jean 0034,Men,Jeans,ModeCraft,Men,1064,5,4.7,4383,Low Stock,1011,77,77,12,12,6.0,6066.0,15.58
+PROD00083,Northline Top 0083,Women,Tops,Nova Living,Men,742,10,4.0,1721,Low Stock,668,73,73,9,9,9.0,6012.0,12.33
+PROD00141,PureForm Dresse 0141,Women,Dresses,Aurelia Lane,Men,1108,10,3.6,1436,In Stock,997,78,78,11,11,6.0,5982.0,14.1
+PROD00789,GlowLab Makeup 0789,Beauty,Makeup,Nova Living,Women,1754,15,3.9,1403,In Stock,1491,70,70,8,8,4.0,5964.0,11.43
+PROD00238,Northline Shirt 0238,Men,Shirts,House of Loom,Women,1157,15,3.5,880,In Stock,983,63,63,10,10,6.0,5898.0,15.87
+PROD00702,Tiny Trails Top 0702,Women,Tops,GlowLab,Women,1176,0,3.7,1997,Low Stock,1176,89,89,20,20,5.0,5880.0,22.47
+PROD00333,Tiny Trails Footwear 0333,Men,Footwear,Tiny Trails,Women,1954,40,3.8,4324,In Stock,1172,80,80,13,13,5.0,5860.0,16.25
+PROD00060,ModeCraft T-Shirt 0060,Kids,T-Shirts,House of Loom,Men,1185,30,4.2,1516,In Stock,830,79,79,11,11,7.0,5810.0,13.92
+PROD00862,Urban Thread Cushion Cover 0862,Home,Cushion Covers,Northline,Unisex,3869,25,4.0,4878,Low Stock,2902,67,67,10,10,2.0,5804.0,14.93
+PROD00719,Tiny Trails Dresse 0719,Women,Dresses,ModeCraft,Women,806,10,3.8,2131,In Stock,725,73,73,11,11,8.0,5800.0,15.07
+PROD00159,Nova Living Footwear 0159,Women,Footwear,Everyday Edit,Kids,1703,15,4.2,3394,In Stock,1448,76,76,13,13,4.0,5792.0,17.11
+PROD00289,Everyday Edit Jean 0289,Women,Jeans,Tiny Trails,Men,2745,30,4.8,3030,In Stock,1921,88,88,6,6,3.0,5763.0,6.82
+PROD00069,Nova Living Top 0069,Women,Tops,Everyday Edit,Unisex,960,25,2.6,955,In Stock,720,64,64,7,7,8.0,5760.0,10.94
+PROD00961,ModeCraft Skincare 0961,Beauty,Skincare,House of Loom,Women,745,15,3.9,4776,In Stock,633,71,71,10,10,9.0,5697.0,14.08
+PROD00201,Tiny Trails Watche 0201,Men,Watches,Everyday Edit,Men,2372,40,3.7,3446,In Stock,1423,67,67,8,8,4.0,5692.0,11.94
+PROD00371,Aurelia Lane Dresse 0371,Women,Dresses,Tiny Trails,Men,1897,40,4.7,4277,In Stock,1138,71,71,7,7,5.0,5690.0,9.86
+PROD00887,ColorPop Footwear 0887,Kids,Footwear,Urban Thread,Men,1132,0,3.9,3556,In Stock,1132,94,94,11,11,5.0,5660.0,11.7
+PROD00806,ModeCraft Footwear 0806,Women,Footwear,ColorPop,Unisex,880,20,4.5,1356,In Stock,704,72,72,7,7,8.0,5632.0,9.72
+PROD00451,Nova Living Watche 0451,Men,Watches,Aurelia Lane,Women,3732,25,4.0,3382,In Stock,2799,76,76,13,13,2.0,5598.0,17.11
+PROD00698,GlowLab Skincare 0698,Beauty,Skincare,Urban Thread,Women,2174,15,3.7,4727,In Stock,1848,79,79,5,5,3.0,5544.0,6.33
+PROD00493,PureForm T-Shirt 0493,Kids,T-Shirts,ColorPop,Men,1969,30,4.1,932,In Stock,1378,82,82,16,16,4.0,5512.0,19.51
+PROD00519,PureForm Footwear 0519,Men,Footwear,GlowLab,Men,786,0,4.0,3408,In Stock,786,61,61,12,12,7.0,5502.0,19.67
+PROD00764,Northline Ethnic Wear 0764,Men,Ethnic Wear,Everyday Edit,Men,2616,30,3.3,3950,In Stock,1831,78,78,6,6,3.0,5493.0,7.69
+PROD00002,Nova Living Footwear 0002,Men,Footwear,Aurelia Lane,Kids,1831,25,4.2,1656,Out of Stock,1373,56,56,12,12,4.0,5492.0,21.43
+PROD00285,Northline Ethnic Set 0285,Women,Ethnic Sets,Northline,Men,2286,20,5.0,3901,In Stock,1829,76,76,10,10,3.0,5487.0,13.16
+PROD00029,ColorPop Shirt 0029,Men,Shirts,Urban Thread,Unisex,920,15,4.6,1816,In Stock,782,73,73,6,6,7.0,5474.0,8.22
+PROD00128,PureForm Cushion Cover 0128,Home,Cushion Covers,ModeCraft,Kids,3638,25,3.9,2348,In Stock,2728,84,84,12,12,2.0,5456.0,14.29
+PROD00316,Street Theory Jean 0316,Women,Jeans,GlowLab,Kids,1283,15,4.1,2189,In Stock,1091,75,75,8,8,5.0,5455.0,10.67
+PROD00344,ModeCraft Footwear 0344,Men,Footwear,Aurelia Lane,Men,1363,20,3.7,1591,Low Stock,1090,70,70,11,11,5.0,5450.0,15.71
+PROD00056,ColorPop Footwear 0056,Men,Footwear,Northline,Women,757,10,4.0,4526,Low Stock,681,82,82,11,11,8.0,5448.0,13.41
+PROD00450,House of Loom T-Shirt 0450,Kids,T-Shirts,Everyday Edit,Men,6408,15,4.1,973,In Stock,5447,50,50,5,5,1.0,5447.0,10.0
+PROD00282,ColorPop Jean 0282,Women,Jeans,Nova Living,Men,1209,25,4.2,1600,In Stock,907,69,69,8,8,6.0,5442.0,11.59
+PROD00579,Everyday Edit T-Shirt 0579,Kids,T-Shirts,ModeCraft,Women,1507,10,3.9,192,In Stock,1356,68,68,11,11,4.0,5424.0,16.18
+PROD00820,Urban Thread Footwear 0820,Men,Footwear,Nova Living,Men,518,5,3.5,916,In Stock,492,88,88,12,12,11.0,5412.0,13.64
+PROD00028,Street Theory Haircare 0028,Beauty,Haircare,Tiny Trails,Women,1126,20,4.2,4447,In Stock,901,71,71,10,10,6.0,5406.0,14.08
+PROD00896,Urban Thread Fragrance 0896,Beauty,Fragrance,Tiny Trails,Women,944,5,5.0,3393,In Stock,897,73,73,13,13,6.0,5382.0,17.81
+PROD00507,PureForm Footwear 0507,Kids,Footwear,Nova Living,Men,896,25,3.4,3665,In Stock,672,71,71,10,10,8.0,5376.0,14.08
+PROD00689,Aurelia Lane Fragrance 0689,Beauty,Fragrance,Northline,Men,3142,15,4.1,3114,In Stock,2671,60,60,5,5,2.0,5342.0,8.33
+PROD00045,Urban Thread Footwear 0045,Men,Footwear,GlowLab,Unisex,483,0,3.0,2764,In Stock,483,69,69,11,11,11.0,5313.0,15.94
+PROD00253,Aurelia Lane Jean 0253,Women,Jeans,Aurelia Lane,Men,947,20,5.0,3629,In Stock,758,78,78,14,14,7.0,5306.0,17.95
+PROD00830,Urban Thread Dresse 0830,Women,Dresses,Northline,Unisex,3779,30,4.0,1860,In Stock,2645,70,70,5,5,2.0,5290.0,7.14
+PROD00485,Urban Thread Dresse 0485,Women,Dresses,Aurelia Lane,Women,754,0,3.8,146,In Stock,754,68,68,14,14,7.0,5278.0,20.59
+PROD00164,GlowLab Shirt 0164,Men,Shirts,ColorPop,Women,1756,25,3.2,1414,In Stock,1317,76,76,10,10,4.0,5268.0,13.16
+PROD00679,Street Theory Footwear 0679,Women,Footwear,House of Loom,Women,3759,30,3.6,449,In Stock,2631,67,67,7,7,2.0,5262.0,10.45
+PROD00645,PureForm Handbag 0645,Women,Handbags,Aurelia Lane,Men,1235,15,3.7,576,In Stock,1050,83,83,15,15,5.0,5250.0,18.07
+PROD00336,Street Theory Storage 0336,Home,Storage,Nova Living,Women,1396,25,4.2,4776,Low Stock,1047,67,67,9,9,5.0,5235.0,13.43
+PROD00149,Urban Thread Kurta 0149,Women,Kurtas,Urban Thread,Women,1738,50,3.5,2167,In Stock,869,71,71,13,13,6.0,5214.0,18.31
+PROD00842,Everyday Edit Decor 0842,Home,Decor,Urban Thread,Kids,2033,15,4.2,1908,In Stock,1728,96,96,9,9,3.0,5184.0,9.38
+PROD00072,House of Loom T-Shirt 0072,Men,T-Shirts,Northline,Unisex,1085,5,2.9,4729,Out of Stock,1031,83,83,13,13,5.0,5155.0,15.66
+PROD00868,Northline Top 0868,Women,Tops,GlowLab,Unisex,711,20,4.5,627,In Stock,569,83,83,11,11,9.0,5121.0,13.25
+PROD00784,Tiny Trails Watche 0784,Men,Watches,ModeCraft,Women,2530,50,5.0,4501,In Stock,1265,65,65,12,12,4.0,5060.0,18.46
+PROD00819,Nova Living Bedsheet 0819,Home,Bedsheets,Everyday Edit,Women,1259,20,3.3,4543,In Stock,1007,87,87,9,9,5.0,5035.0,10.34
+PROD00993,Urban Thread Kurta 0993,Women,Kurtas,GlowLab,Women,617,10,3.6,813,In Stock,555,64,64,14,14,9.0,4995.0,21.88
+PROD00964,ColorPop T-Shirt 0964,Kids,T-Shirts,Tiny Trails,Women,3562,30,4.5,712,In Stock,2493,81,81,5,5,2.0,4986.0,6.17
+PROD00189,PureForm Jean 0189,Women,Jeans,ColorPop,Women,710,0,4.2,2641,In Stock,710,64,64,13,13,7.0,4970.0,20.31
+PROD00671,Street Theory Makeup 0671,Beauty,Makeup,Nova Living,Women,1179,30,4.2,3374,In Stock,825,75,75,11,11,6.0,4950.0,14.67
+PROD00825,PureForm Storage 0825,Home,Storage,Street Theory,Kids,943,25,4.2,4508,In Stock,707,70,70,12,12,7.0,4949.0,17.14
+PROD00130,Northline Haircare 0130,Beauty,Haircare,Aurelia Lane,Men,1098,10,4.9,2439,In Stock,988,62,62,7,7,5.0,4940.0,11.29
+PROD00388,Northline Ethnic Set 0388,Women,Ethnic Sets,Northline,Women,821,25,4.7,2419,In Stock,616,76,76,12,12,8.0,4928.0,15.79
+PROD00932,Urban Thread Jean 0932,Women,Jeans,Street Theory,Men,1368,40,4.4,3860,Out of Stock,821,75,75,7,7,6.0,4926.0,9.33
+PROD00841,Tiny Trails Bedsheet 0841,Home,Bedsheets,House of Loom,Men,1636,40,4.7,3550,In Stock,982,76,76,11,11,5.0,4910.0,14.47
+PROD00497,Northline Handbag 0497,Women,Handbags,GlowLab,Men,1388,50,3.7,2738,Out of Stock,694,77,77,14,14,7.0,4858.0,18.18
+PROD00837,Nova Living Jean 0837,Women,Jeans,ColorPop,Men,769,10,3.1,1183,In Stock,692,86,86,12,12,7.0,4844.0,13.95
+PROD00019,Urban Thread Skincare 0019,Beauty,Skincare,ColorPop,Unisex,1071,10,3.7,1060,In Stock,964,89,89,9,9,5.0,4820.0,10.11
+PROD00523,House of Loom Footwear 0523,Women,Footwear,GlowLab,Men,1134,30,5.0,1475,Out of Stock,794,71,71,6,6,6.0,4764.0,8.45
+PROD00548,ModeCraft Handbag 0548,Women,Handbags,PureForm,Men,987,20,3.3,562,In Stock,790,68,68,12,12,6.0,4740.0,17.65
+PROD00564,ColorPop Bottomwear 0564,Kids,Bottomwear,Northline,Women,1693,30,3.6,2030,In Stock,1185,78,78,13,13,4.0,4740.0,16.67
+PROD00580,Aurelia Lane Bottomwear 0580,Kids,Bottomwear,Nova Living,Unisex,1102,15,3.8,1502,In Stock,937,76,76,11,11,5.0,4685.0,14.47
+PROD00716,Street Theory Jean 0716,Men,Jeans,Northline,Men,821,5,4.1,3610,In Stock,780,82,82,8,8,6.0,4680.0,9.76
+PROD00246,House of Loom Cushion Cover 0246,Home,Cushion Covers,Urban Thread,Women,780,25,3.2,4720,In Stock,585,66,66,14,14,8.0,4680.0,21.21
+PROD00742,Tiny Trails T-Shirt 0742,Men,T-Shirts,Everyday Edit,Women,1165,50,3.4,4452,In Stock,582,73,73,10,10,8.0,4656.0,13.7
+PROD00810,Urban Thread Ethnic Set 0810,Women,Ethnic Sets,Urban Thread,Unisex,1033,10,3.7,4422,In Stock,930,70,70,11,11,5.0,4650.0,15.71
+PROD00774,GlowLab Shirt 0774,Men,Shirts,Street Theory,Women,2213,30,3.6,4838,In Stock,1549,72,72,7,7,3.0,4647.0,9.72
+PROD00690,PureForm Fragrance 0690,Beauty,Fragrance,ModeCraft,Women,729,10,3.3,4869,In Stock,656,73,73,11,11,7.0,4592.0,15.07
+PROD00931,Tiny Trails Handbag 0931,Women,Handbags,Everyday Edit,Men,2171,30,4.3,2602,In Stock,1520,63,63,8,8,3.0,4560.0,12.7
+PROD00363,Everyday Edit Ethnic Set 0363,Women,Ethnic Sets,Urban Thread,Women,912,0,4.5,4001,Low Stock,912,73,73,9,9,5.0,4560.0,12.33
+PROD00158,Nova Living Haircare 0158,Beauty,Haircare,Northline,Women,1510,25,4.4,3487,In Stock,1132,90,90,10,10,4.0,4528.0,11.11
+PROD00372,Street Theory Footwear 0372,Women,Footwear,Northline,Men,1060,15,4.9,4916,In Stock,901,68,68,12,12,5.0,4505.0,17.65
+PROD00576,Northline Kurta 0576,Women,Kurtas,Nova Living,Women,676,5,3.3,2962,In Stock,642,63,63,9,9,7.0,4494.0,14.29
+PROD00095,GlowLab Watche 0095,Men,Watches,Street Theory,Women,1873,20,5.0,859,In Stock,1498,79,79,10,10,3.0,4494.0,12.66
+PROD00367,ModeCraft Watche 0367,Men,Watches,Northline,Men,6354,30,4.0,2330,In Stock,4448,89,89,14,14,1.0,4448.0,15.73
+PROD00120,ModeCraft Top 0120,Women,Tops,Aurelia Lane,Women,1057,40,3.5,2777,In Stock,634,86,86,12,12,7.0,4438.0,13.95
+PROD00446,Aurelia Lane Ethnic Wear 0446,Men,Ethnic Wear,ModeCraft,Unisex,1301,15,3.8,2014,In Stock,1106,80,80,8,8,4.0,4424.0,10.0
+PROD00384,ModeCraft Storage 0384,Home,Storage,PureForm,Men,789,30,4.3,3397,In Stock,552,73,73,10,10,8.0,4416.0,13.7
+PROD00229,Tiny Trails Shirt 0229,Men,Shirts,PureForm,Kids,2453,10,3.4,210,Out of Stock,2208,65,65,10,10,2.0,4416.0,15.38
+PROD00052,PureForm Dresse 0052,Women,Dresses,Northline,Men,1100,50,3.6,2569,In Stock,550,77,77,19,19,8.0,4400.0,24.68
+PROD00795,ModeCraft Jean 0795,Men,Jeans,PureForm,Kids,405,10,3.9,3384,Low Stock,364,91,91,13,13,12.0,4368.0,14.29
+PROD00857,Aurelia Lane Decor 0857,Home,Decor,Nova Living,Women,970,10,3.4,2637,In Stock,873,78,78,8,8,5.0,4365.0,10.26
+PROD00521,Everyday Edit Cushion Cover 0521,Home,Cushion Covers,Northline,Women,1708,15,3.9,4868,Out of Stock,1452,79,79,12,12,3.0,4356.0,15.19
+PROD00263,Nova Living Kurta 0263,Women,Kurtas,Tiny Trails,Men,852,15,3.6,2773,Low Stock,724,62,62,9,9,6.0,4344.0,14.52
+PROD00273,PureForm Skincare 0273,Beauty,Skincare,ModeCraft,Unisex,1352,20,3.9,977,In Stock,1082,70,70,7,7,4.0,4328.0,10.0
+PROD00588,Urban Thread Jean 0588,Women,Jeans,Aurelia Lane,Women,883,30,4.1,3901,In Stock,618,60,60,9,9,7.0,4326.0,15.0
+PROD00242,Aurelia Lane Fragrance 0242,Beauty,Fragrance,PureForm,Men,1192,40,4.4,4072,In Stock,715,87,87,16,16,6.0,4290.0,18.39
+PROD00780,Everyday Edit T-Shirt 0780,Men,T-Shirts,ColorPop,Unisex,1213,30,3.6,1202,In Stock,849,73,73,12,12,5.0,4245.0,16.44
+PROD00625,Everyday Edit Cushion Cover 0625,Home,Cushion Covers,Northline,Unisex,662,20,4.9,885,Low Stock,530,64,64,11,11,8.0,4240.0,17.19
+PROD00904,Nova Living Handbag 0904,Women,Handbags,Nova Living,Unisex,1409,40,4.0,1729,In Stock,845,83,83,8,8,5.0,4225.0,9.64
+PROD00987,Everyday Edit Cushion Cover 0987,Home,Cushion Covers,ColorPop,Unisex,620,15,3.1,4761,In Stock,527,75,75,17,17,8.0,4216.0,22.67
+PROD00659,Nova Living T-Shirt 0659,Men,T-Shirts,Nova Living,Men,1051,20,3.1,1202,In Stock,841,71,71,14,14,5.0,4205.0,19.72
+PROD00277,Urban Thread Watche 0277,Men,Watches,Urban Thread,Women,750,30,4.0,975,In Stock,525,71,71,11,11,8.0,4200.0,15.49
+PROD00594,GlowLab Jean 0594,Women,Jeans,House of Loom,Women,447,15,4.6,531,In Stock,380,77,77,11,11,11.0,4180.0,14.29
+PROD00831,Street Theory T-Shirt 0831,Men,T-Shirts,Everyday Edit,Men,594,0,2.7,4193,Low Stock,594,73,73,13,13,7.0,4158.0,17.81
+PROD00666,Everyday Edit Storage 0666,Home,Storage,Street Theory,Men,988,30,4.5,2259,In Stock,692,87,87,12,12,6.0,4152.0,13.79
+PROD00988,GlowLab Skincare 0988,Beauty,Skincare,ModeCraft,Women,1182,50,3.5,4551,In Stock,591,82,82,8,8,7.0,4137.0,9.76
+PROD00769,PureForm Kurta 0769,Women,Kurtas,Aurelia Lane,Women,765,10,3.6,2028,Low Stock,688,52,52,4,4,6.0,4128.0,7.69
+PROD00283,Urban Thread T-Shirt 0283,Men,T-Shirts,Aurelia Lane,Kids,1143,10,4.0,789,In Stock,1029,61,61,8,8,4.0,4116.0,13.11
+PROD00924,Nova Living Watche 0924,Men,Watches,Northline,Kids,1176,30,4.8,4309,Out of Stock,823,69,69,13,13,5.0,4115.0,18.84
+PROD00926,Tiny Trails Footwear 0926,Women,Footwear,Tiny Trails,Men,652,10,4.7,1435,In Stock,587,96,96,12,12,7.0,4109.0,12.5
+PROD00892,PureForm Kurta 0892,Women,Kurtas,Aurelia Lane,Women,585,0,4.7,4852,Low Stock,585,69,69,13,13,7.0,4095.0,18.84
+PROD00828,Tiny Trails Footwear 0828,Men,Footwear,Aurelia Lane,Women,775,25,4.9,3442,Low Stock,581,81,81,14,14,7.0,4067.0,17.28
+PROD00262,PureForm Haircare 0262,Beauty,Haircare,ModeCraft,Women,564,10,4.6,1675,Low Stock,508,72,72,11,11,8.0,4064.0,15.28
+PROD00032,Aurelia Lane Shirt 0032,Men,Shirts,Tiny Trails,Men,713,5,3.5,2259,In Stock,677,84,84,17,17,6.0,4062.0,20.24
+PROD00349,PureForm Handbag 0349,Women,Handbags,GlowLab,Men,1693,20,3.5,130,In Stock,1354,69,69,8,8,3.0,4062.0,11.59
+PROD00776,Nova Living Shirt 0776,Men,Shirts,Northline,Men,1353,25,3.9,1144,Out of Stock,1015,81,81,11,11,4.0,4060.0,13.58
+PROD00960,ModeCraft T-Shirt 0960,Kids,T-Shirts,PureForm,Women,1080,25,5.0,3426,In Stock,810,83,83,7,7,5.0,4050.0,8.43
+PROD00443,Tiny Trails Footwear 0443,Men,Footwear,House of Loom,Women,368,0,3.2,3830,In Stock,368,91,91,12,12,11.0,4048.0,13.19
+PROD00676,House of Loom Shirt 0676,Men,Shirts,ModeCraft,Women,1793,25,3.6,1587,In Stock,1345,84,84,10,10,3.0,4035.0,11.9
+PROD00220,Tiny Trails Cushion Cover 0220,Home,Cushion Covers,Nova Living,Women,557,20,4.3,3247,In Stock,446,86,86,12,12,9.0,4014.0,13.95
+PROD00409,Nova Living Decor 0409,Home,Decor,ModeCraft,Men,1671,40,3.8,4936,In Stock,1003,67,67,5,5,4.0,4012.0,7.46
+PROD00464,Nova Living Dresse 0464,Kids,Dresses,Everyday Edit,Men,1327,0,4.0,2742,In Stock,1327,62,62,11,11,3.0,3981.0,17.74
+PROD00470,Everyday Edit Handbag 0470,Women,Handbags,Everyday Edit,Kids,1316,0,4.2,4277,In Stock,1316,63,63,7,7,3.0,3948.0,11.11
+PROD00075,Aurelia Lane Jean 0075,Women,Jeans,PureForm,Women,933,30,4.2,1263,In Stock,653,75,75,11,11,6.0,3918.0,14.67
+PROD00139,Street Theory Ethnic Wear 0139,Men,Ethnic Wear,ModeCraft,Men,932,30,3.1,2370,In Stock,652,69,69,8,8,6.0,3912.0,11.59
+PROD00553,ColorPop Footwear 0553,Men,Footwear,ModeCraft,Kids,555,0,3.7,3714,Low Stock,555,75,75,7,7,7.0,3885.0,9.33
+PROD00582,Nova Living Dresse 0582,Kids,Dresses,Aurelia Lane,Men,1295,25,3.0,4915,Out of Stock,971,79,79,12,12,4.0,3884.0,15.19
+PROD00587,ColorPop Footwear 0587,Kids,Footwear,PureForm,Women,1386,30,4.2,942,In Stock,970,70,70,8,8,4.0,3880.0,11.43
+PROD00738,PureForm Kurta 0738,Women,Kurtas,Northline,Women,913,15,3.8,1147,Low Stock,776,71,71,11,11,5.0,3880.0,15.49
+PROD00487,Street Theory Handbag 0487,Women,Handbags,Urban Thread,Men,808,20,4.3,4823,Low Stock,646,88,88,14,14,6.0,3876.0,15.91
+PROD00957,PureForm Bedsheet 0957,Home,Bedsheets,Tiny Trails,Men,1290,40,4.0,256,In Stock,774,73,73,7,7,5.0,3870.0,9.59
+PROD00142,GlowLab T-Shirt 0142,Kids,T-Shirts,Everyday Edit,Unisex,803,40,4.5,4494,In Stock,482,80,80,21,21,8.0,3856.0,26.25
+PROD00307,GlowLab Ethnic Wear 0307,Men,Ethnic Wear,ColorPop,Men,959,20,4.3,997,Low Stock,767,80,80,11,11,5.0,3835.0,13.75
+PROD00097,Urban Thread Jean 0097,Men,Jeans,PureForm,Men,1276,40,4.5,4143,Low Stock,766,76,76,13,13,5.0,3830.0,17.11
+PROD00215,Nova Living Jean 0215,Men,Jeans,Nova Living,Kids,1118,15,3.8,179,In Stock,950,75,75,7,7,4.0,3800.0,9.33
+PROD00572,Aurelia Lane Handbag 0572,Women,Handbags,Everyday Edit,Men,1899,50,3.8,554,In Stock,950,63,63,9,9,4.0,3800.0,14.29
+PROD00746,PureForm Ethnic Set 0746,Women,Ethnic Sets,Aurelia Lane,Men,1055,10,4.7,4947,In Stock,950,84,84,8,8,4.0,3800.0,9.52
+PROD00491,Street Theory Storage 0491,Home,Storage,Aurelia Lane,Women,843,10,5.0,2766,Out of Stock,759,80,80,15,15,5.0,3795.0,18.75
+PROD00891,Aurelia Lane Footwear 0891,Women,Footwear,Aurelia Lane,Men,944,20,4.8,3824,In Stock,755,80,80,14,14,5.0,3775.0,17.5
+PROD00535,ColorPop Dresse 0535,Women,Dresses,Urban Thread,Unisex,1472,15,4.4,977,In Stock,1251,55,55,7,7,3.0,3753.0,12.73
+PROD00939,Street Theory Watche 0939,Men,Watches,Aurelia Lane,Women,463,10,4.2,2096,Low Stock,417,77,77,11,11,9.0,3753.0,14.29
+PROD00700,Street Theory Watche 0700,Men,Watches,Street Theory,Women,586,20,3.5,4646,In Stock,469,82,82,13,13,8.0,3752.0,15.85
+PROD00747,Tiny Trails T-Shirt 0747,Men,T-Shirts,ColorPop,Women,1337,30,3.1,4062,In Stock,936,83,83,10,10,4.0,3744.0,12.05
+PROD00125,Northline Top 0125,Women,Tops,Northline,Men,1559,40,3.7,1906,Low Stock,935,78,78,9,9,4.0,3740.0,11.54
+PROD00991,Aurelia Lane Dresse 0991,Women,Dresses,Nova Living,Women,747,0,3.4,2893,In Stock,747,82,82,9,9,5.0,3735.0,10.98
+PROD00353,Urban Thread Kurta 0353,Women,Kurtas,PureForm,Men,592,10,3.7,777,In Stock,533,71,71,12,12,7.0,3731.0,16.9
+PROD00727,Street Theory Top 0727,Women,Tops,ModeCraft,Women,517,10,4.1,1153,Out of Stock,465,74,74,12,12,8.0,3720.0,16.22
+PROD00826,Street Theory Kurta 0826,Women,Kurtas,ModeCraft,Unisex,1770,30,4.6,2730,In Stock,1239,59,59,9,9,3.0,3717.0,15.25
+PROD00563,Aurelia Lane Footwear 0563,Men,Footwear,PureForm,Women,821,25,3.8,1405,Low Stock,616,78,78,12,12,6.0,3696.0,15.38
+PROD00792,PureForm Top 0792,Women,Tops,Tiny Trails,Women,1026,10,5.0,3139,In Stock,923,74,74,12,12,4.0,3692.0,16.22
+PROD00800,Northline T-Shirt 0800,Men,T-Shirts,Everyday Edit,Women,586,10,3.2,160,In Stock,527,79,79,13,13,7.0,3689.0,16.46
+PROD00722,House of Loom Footwear 0722,Women,Footwear,Street Theory,Kids,461,0,3.5,122,In Stock,461,76,76,14,14,8.0,3688.0,18.42
+PROD00912,Street Theory Fragrance 0912,Beauty,Fragrance,Tiny Trails,Men,1634,25,3.9,3456,In Stock,1226,87,87,15,15,3.0,3678.0,17.24
+PROD00938,Aurelia Lane Makeup 0938,Beauty,Makeup,Street Theory,Kids,916,0,4.1,1085,In Stock,916,68,68,8,8,4.0,3664.0,11.76
+PROD00550,Nova Living Shirt 0550,Men,Shirts,ModeCraft,Kids,904,0,2.2,1654,In Stock,904,58,58,7,7,4.0,3616.0,12.07
+PROD00681,Aurelia Lane Footwear 0681,Men,Footwear,Aurelia Lane,Women,858,40,3.5,1150,In Stock,515,69,69,8,8,7.0,3605.0,11.59
+PROD00823,Northline Makeup 0823,Beauty,Makeup,Nova Living,Women,2383,25,4.7,1565,In Stock,1787,53,53,8,8,2.0,3574.0,15.09
+PROD00489,Street Theory Watche 0489,Men,Watches,Northline,Unisex,992,40,4.1,2169,In Stock,595,71,71,13,13,6.0,3570.0,18.31
+PROD00269,ColorPop Handbag 0269,Women,Handbags,House of Loom,Women,389,30,3.8,1448,Out of Stock,272,78,78,10,10,13.0,3536.0,12.82
+PROD00941,Nova Living Ethnic Wear 0941,Men,Ethnic Wear,PureForm,Kids,441,0,3.6,3540,Low Stock,441,72,72,9,9,8.0,3528.0,12.5
+PROD00296,Tiny Trails Storage 0296,Home,Storage,Nova Living,Men,714,30,3.2,2852,In Stock,500,77,77,7,7,7.0,3500.0,9.09
+PROD00622,PureForm Ethnic Wear 0622,Men,Ethnic Wear,Tiny Trails,Men,624,30,4.1,1780,In Stock,437,67,67,8,8,8.0,3496.0,11.94
+PROD00877,ModeCraft Handbag 0877,Women,Handbags,Everyday Edit,Men,623,20,4.1,533,Low Stock,498,74,74,8,8,7.0,3486.0,10.81
+PROD00997,ColorPop Watche 0997,Men,Watches,Nova Living,Women,1014,15,4.2,3097,In Stock,862,69,69,6,6,4.0,3448.0,8.7
+PROD00834,ColorPop Kurta 0834,Women,Kurtas,GlowLab,Women,1352,15,4.6,1241,In Stock,1149,72,72,10,10,3.0,3447.0,13.89
+PROD00091,Nova Living Ethnic Wear 0091,Men,Ethnic Wear,Tiny Trails,Men,725,5,4.8,824,In Stock,689,64,64,9,9,5.0,3445.0,14.06
+PROD00860,Tiny Trails Ethnic Wear 0860,Men,Ethnic Wear,Northline,Unisex,638,10,4.4,613,In Stock,574,78,78,12,12,6.0,3444.0,15.38
+PROD00618,Northline Top 0618,Women,Tops,Nova Living,Men,636,10,2.6,1784,In Stock,572,67,67,13,13,6.0,3432.0,19.4
+PROD00022,Nova Living Watche 0022,Men,Watches,Northline,Kids,1991,15,3.2,178,Low Stock,1692,70,70,7,7,2.0,3384.0,10.0
+PROD00879,ModeCraft Ethnic Wear 0879,Men,Ethnic Wear,ModeCraft,Women,986,15,2.9,2052,In Stock,838,75,75,11,11,4.0,3352.0,14.67
+PROD00288,Aurelia Lane Dresse 0288,Women,Dresses,Aurelia Lane,Men,556,25,4.2,2599,In Stock,417,90,90,10,10,8.0,3336.0,11.11
+PROD00250,Urban Thread Footwear 0250,Women,Footwear,ColorPop,Women,785,15,3.6,3597,In Stock,667,87,87,14,14,5.0,3335.0,16.09
+PROD00505,GlowLab T-Shirt 0505,Kids,T-Shirts,ModeCraft,Unisex,2219,50,3.3,4768,In Stock,1110,70,70,7,7,3.0,3330.0,10.0
+PROD00049,Everyday Edit Ethnic Wear 0049,Men,Ethnic Wear,Northline,Women,1035,20,3.4,346,In Stock,828,75,75,7,7,4.0,3312.0,9.33
+PROD00376,Everyday Edit Footwear 0376,Women,Footwear,Urban Thread,Women,648,15,4.3,4652,In Stock,551,65,65,7,7,6.0,3306.0,10.77
+PROD00567,PureForm Kurta 0567,Women,Kurtas,ModeCraft,Men,496,5,4.2,2662,Low Stock,471,76,76,12,12,7.0,3297.0,15.79
+PROD00431,House of Loom Bottomwear 0431,Kids,Bottomwear,Street Theory,Men,439,25,4.6,4302,In Stock,329,81,81,14,14,10.0,3290.0,17.28
+PROD00660,Northline Jean 0660,Women,Jeans,ColorPop,Women,1174,30,3.1,1444,In Stock,822,77,77,9,9,4.0,3288.0,11.69
+PROD00977,ColorPop Haircare 0977,Beauty,Haircare,PureForm,Women,1093,0,4.2,787,In Stock,1093,80,80,8,8,3.0,3279.0,10.0
+PROD00592,Nova Living Footwear 0592,Women,Footwear,Everyday Edit,Men,908,40,4.6,4523,In Stock,545,79,79,16,16,6.0,3270.0,20.25
+PROD00782,Nova Living Dresse 0782,Women,Dresses,Tiny Trails,Women,816,0,2.8,4617,In Stock,816,68,68,13,13,4.0,3264.0,19.12
+PROD00011,GlowLab Storage 0011,Home,Storage,Everyday Edit,Unisex,367,20,3.4,941,In Stock,294,83,83,12,12,11.0,3234.0,14.46
+PROD00350,House of Loom Dresse 0350,Women,Dresses,Aurelia Lane,Women,1154,30,4.3,1682,In Stock,808,64,64,4,4,4.0,3232.0,6.25
+PROD00061,Northline Footwear 0061,Women,Footwear,House of Loom,Women,947,15,3.6,3785,In Stock,805,79,79,16,16,4.0,3220.0,20.25
+PROD00504,Urban Thread Haircare 0504,Beauty,Haircare,ColorPop,Men,714,25,3.7,2445,In Stock,536,93,93,12,12,6.0,3216.0,12.9
+PROD00093,PureForm Haircare 0093,Beauty,Haircare,House of Loom,Kids,590,10,4.7,1944,In Stock,531,73,73,11,11,6.0,3186.0,15.07
+PROD00591,PureForm Kurta 0591,Women,Kurtas,Nova Living,Men,1325,40,4.6,3873,Low Stock,795,82,82,8,8,4.0,3180.0,9.76
+PROD00227,ColorPop Kurta 0227,Women,Kurtas,Aurelia Lane,Unisex,441,20,3.6,2645,In Stock,353,75,75,10,10,9.0,3177.0,13.33
+PROD00915,Tiny Trails Storage 0915,Home,Storage,GlowLab,Kids,1308,40,4.3,780,In Stock,785,77,77,3,3,4.0,3140.0,3.9
+PROD00342,GlowLab Ethnic Set 0342,Women,Ethnic Sets,Northline,Men,1107,30,3.5,4287,In Stock,775,77,77,9,9,4.0,3100.0,11.69
+PROD00783,Northline Cushion Cover 0783,Home,Cushion Covers,Everyday Edit,Men,570,40,4.0,350,Low Stock,342,78,78,17,17,9.0,3078.0,21.79
+PROD00210,Nova Living Skincare 0210,Beauty,Skincare,Aurelia Lane,Women,547,20,5.0,1999,In Stock,438,68,68,10,10,7.0,3066.0,14.71
+PROD00012,GlowLab Skincare 0012,Beauty,Skincare,PureForm,Women,339,10,4.2,3400,In Stock,305,78,78,13,13,10.0,3050.0,16.67
+PROD00186,House of Loom Footwear 0186,Women,Footwear,Urban Thread,Men,1450,30,4.2,4192,In Stock,1015,82,82,13,13,3.0,3045.0,15.85
+PROD00818,GlowLab Jean 0818,Men,Jeans,Aurelia Lane,Men,621,30,3.7,2654,In Stock,435,82,82,16,16,7.0,3045.0,19.51
+PROD00407,Northline T-Shirt 0407,Men,T-Shirts,Tiny Trails,Men,714,15,3.6,120,Low Stock,607,78,78,4,4,5.0,3035.0,5.13
+PROD00057,ColorPop Watche 0057,Men,Watches,Street Theory,Men,509,15,3.1,4530,In Stock,433,90,90,9,9,7.0,3031.0,10.0
+PROD00962,ColorPop Jean 0962,Men,Jeans,Aurelia Lane,Unisex,1183,15,3.0,4596,In Stock,1006,75,75,6,6,3.0,3018.0,8.0
+PROD00615,GlowLab Jean 0615,Women,Jeans,Northline,Women,351,5,4.9,3087,In Stock,333,67,67,9,9,9.0,2997.0,13.43
+PROD00009,Street Theory Decor 0009,Home,Decor,Northline,Men,624,20,3.6,660,Out of Stock,499,67,67,9,9,6.0,2994.0,13.43
+PROD00379,Street Theory Dresse 0379,Kids,Dresses,Northline,Kids,272,0,4.4,3785,In Stock,272,76,76,18,18,11.0,2992.0,23.68
+PROD00999,House of Loom Kurta 0999,Women,Kurtas,Aurelia Lane,Unisex,551,40,4.4,4126,In Stock,331,73,73,16,16,9.0,2979.0,21.92
+PROD00126,House of Loom T-Shirt 0126,Kids,T-Shirts,GlowLab,Women,345,15,4.5,270,Low Stock,293,67,67,16,16,10.0,2930.0,23.88
+PROD00291,Street Theory Handbag 0291,Women,Handbags,PureForm,Women,1951,25,4.0,894,In Stock,1463,66,66,4,4,2.0,2926.0,6.06
+PROD00272,GlowLab Watche 0272,Men,Watches,Street Theory,Women,512,5,5.0,870,In Stock,486,65,65,6,6,6.0,2916.0,9.23
+PROD00217,ModeCraft Footwear 0217,Kids,Footwear,Northline,Men,302,20,3.7,4449,In Stock,242,84,84,17,17,12.0,2904.0,20.24
+PROD00456,Aurelia Lane Handbag 0456,Women,Handbags,ColorPop,Men,806,10,3.4,4678,Low Stock,725,73,73,9,9,4.0,2900.0,12.33
+PROD00661,Urban Thread Shirt 0661,Men,Shirts,GlowLab,Women,1035,30,4.2,286,Low Stock,724,66,66,15,15,4.0,2896.0,22.73
+PROD00031,ColorPop T-Shirt 0031,Kids,T-Shirts,Street Theory,Unisex,1016,5,3.2,1145,In Stock,965,74,74,8,8,3.0,2895.0,10.81
+PROD00748,Tiny Trails Skincare 0748,Beauty,Skincare,Tiny Trails,Women,642,25,4.3,1319,In Stock,482,72,72,10,10,6.0,2892.0,13.89
+PROD00518,Nova Living Handbag 0518,Women,Handbags,Everyday Edit,Women,551,25,5.0,4823,In Stock,413,76,76,10,10,7.0,2891.0,13.16
+PROD00003,Everyday Edit Ethnic Wear 0003,Men,Ethnic Wear,Everyday Edit,Kids,589,30,3.7,3840,In Stock,412,81,81,9,9,7.0,2884.0,11.11
+PROD00454,Aurelia Lane Ethnic Wear 0454,Men,Ethnic Wear,Aurelia Lane,Unisex,959,25,4.2,906,In Stock,719,68,68,10,10,4.0,2876.0,14.71
+PROD00656,ModeCraft Ethnic Set 0656,Women,Ethnic Sets,Tiny Trails,Men,596,20,3.2,262,In Stock,477,67,67,9,9,6.0,2862.0,13.43
+PROD00757,House of Loom Shirt 0757,Men,Shirts,Aurelia Lane,Women,950,0,3.8,4609,In Stock,950,70,70,9,9,3.0,2850.0,12.86
+PROD00936,Everyday Edit Storage 0936,Home,Storage,Nova Living,Women,757,25,4.1,3836,In Stock,568,74,74,9,9,5.0,2840.0,12.16
+PROD00468,ModeCraft Dresse 0468,Women,Dresses,Tiny Trails,Men,566,0,4.5,1283,Out of Stock,566,64,64,5,5,5.0,2830.0,7.81
+PROD00928,Tiny Trails Handbag 0928,Women,Handbags,Nova Living,Women,991,30,4.2,158,In Stock,694,71,71,7,7,4.0,2776.0,9.86
+PROD00959,PureForm Ethnic Set 0959,Women,Ethnic Sets,ColorPop,Unisex,3201,15,4.0,4633,Low Stock,2721,58,58,5,5,1.0,2721.0,8.62
+PROD00907,Everyday Edit Dresse 0907,Women,Dresses,ModeCraft,Men,388,0,4.0,3220,In Stock,388,79,79,12,12,7.0,2716.0,15.19
+PROD00010,Aurelia Lane Kurta 0010,Women,Kurtas,House of Loom,Women,646,30,4.8,4352,In Stock,452,95,95,14,14,6.0,2712.0,14.74
+PROD00791,ModeCraft Kurta 0791,Women,Kurtas,ModeCraft,Women,284,5,3.6,1877,In Stock,270,79,79,13,13,10.0,2700.0,16.46
+PROD00124,Aurelia Lane Fragrance 0124,Beauty,Fragrance,Urban Thread,Men,548,30,5.0,831,In Stock,384,64,64,6,6,7.0,2688.0,9.38
+PROD00557,Northline T-Shirt 0557,Kids,T-Shirts,ColorPop,Women,594,10,3.1,1993,Low Stock,535,76,76,13,13,5.0,2675.0,17.11
+PROD00503,Street Theory Bedsheet 0503,Home,Bedsheets,Northline,Men,477,20,4.5,1662,Low Stock,382,73,73,12,12,7.0,2674.0,16.44
+PROD00794,Nova Living Cushion Cover 0794,Home,Cushion Covers,PureForm,Men,1571,15,4.2,3089,In Stock,1335,77,77,10,10,2.0,2670.0,12.99
+PROD00105,Tiny Trails Footwear 0105,Women,Footwear,Everyday Edit,Women,472,20,4.0,3193,Low Stock,378,80,80,15,15,7.0,2646.0,18.75
+PROD00652,GlowLab Ethnic Set 0652,Women,Ethnic Sets,Northline,Unisex,773,15,4.4,3331,In Stock,657,66,66,9,9,4.0,2628.0,13.64
+PROD00808,Tiny Trails Haircare 0808,Beauty,Haircare,Street Theory,Women,679,5,3.0,4573,In Stock,645,67,67,4,4,4.0,2580.0,5.97
+PROD00131,Urban Thread Kurta 0131,Women,Kurtas,GlowLab,Women,404,10,4.1,1103,In Stock,364,77,77,8,8,7.0,2548.0,10.39
+PROD00278,ColorPop Dresse 0278,Women,Dresses,Everyday Edit,Women,315,0,4.0,664,In Stock,315,73,73,12,12,8.0,2520.0,16.44
+PROD00720,ModeCraft Storage 0720,Home,Storage,Urban Thread,Women,466,10,3.8,4353,In Stock,419,82,82,11,11,6.0,2514.0,13.41
+PROD00348,ModeCraft Shirt 0348,Men,Shirts,Aurelia Lane,Women,448,30,4.2,579,In Stock,314,73,73,12,12,8.0,2512.0,16.44
+PROD00696,GlowLab Haircare 0696,Beauty,Haircare,PureForm,Unisex,734,15,4.5,3035,In Stock,624,82,82,9,9,4.0,2496.0,10.98
+PROD00815,Street Theory Footwear 0815,Kids,Footwear,ColorPop,Kids,693,10,3.7,1041,Out of Stock,624,83,83,13,13,4.0,2496.0,15.66
+PROD00946,Urban Thread Bedsheet 0946,Home,Bedsheets,Urban Thread,Men,1110,25,4.1,3420,In Stock,832,64,64,5,5,3.0,2496.0,7.81
+PROD00400,Aurelia Lane Top 0400,Women,Tops,Aurelia Lane,Women,1103,25,3.0,2924,In Stock,827,70,70,13,13,3.0,2481.0,18.57
+PROD00173,ColorPop Jean 0173,Men,Jeans,Urban Thread,Women,1374,10,3.0,2797,Low Stock,1237,74,74,8,8,2.0,2474.0,10.81
+PROD00669,GlowLab Footwear 0669,Men,Footwear,Tiny Trails,Unisex,260,5,4.2,1306,In Stock,247,68,68,16,16,10.0,2470.0,23.53
+PROD00412,Northline Kurta 0412,Women,Kurtas,Nova Living,Men,350,0,3.1,1411,Low Stock,350,72,72,7,7,7.0,2450.0,9.72
+PROD00192,Everyday Edit Ethnic Set 0192,Women,Ethnic Sets,Northline,Unisex,2449,50,4.3,604,In Stock,1224,68,68,7,7,2.0,2448.0,10.29
+PROD00895,GlowLab Haircare 0895,Beauty,Haircare,Tiny Trails,Kids,606,0,4.1,876,In Stock,606,81,81,12,12,4.0,2424.0,14.81
+PROD00449,ModeCraft Dresse 0449,Women,Dresses,Urban Thread,Men,507,5,4.5,4084,Low Stock,482,73,73,6,6,5.0,2410.0,8.22
+PROD00880,PureForm Handbag 0880,Women,Handbags,Nova Living,Men,301,20,2.8,4018,In Stock,241,74,74,12,12,10.0,2410.0,16.22
+PROD00155,ModeCraft Watche 0155,Men,Watches,ColorPop,Unisex,403,15,3.8,1260,In Stock,343,66,66,12,12,7.0,2401.0,18.18
+PROD00328,Urban Thread Footwear 0328,Men,Footwear,ColorPop,Men,500,40,4.2,2701,In Stock,300,76,76,6,6,8.0,2400.0,7.89
+PROD00394,ColorPop Kurta 0394,Women,Kurtas,ModeCraft,Kids,598,20,4.0,3372,In Stock,478,91,91,9,9,5.0,2390.0,9.89
+PROD00396,House of Loom Footwear 0396,Men,Footwear,Everyday Edit,Unisex,203,10,4.5,721,In Stock,183,74,74,12,12,13.0,2379.0,16.22
+PROD00239,Everyday Edit Top 0239,Women,Tops,Nova Living,Kids,494,40,4.9,2286,In Stock,296,77,77,11,11,8.0,2368.0,14.29
+PROD00897,House of Loom T-Shirt 0897,Kids,T-Shirts,Everyday Edit,Women,984,20,4.0,3536,In Stock,787,72,72,10,10,3.0,2361.0,13.89
+PROD00498,Street Theory Footwear 0498,Women,Footwear,Everyday Edit,Men,524,25,4.2,2322,Low Stock,393,72,72,13,13,6.0,2358.0,18.06
+PROD00736,Everyday Edit Cushion Cover 0736,Home,Cushion Covers,GlowLab,Unisex,873,10,4.1,1389,In Stock,786,66,66,5,5,3.0,2358.0,7.58
+PROD00608,ModeCraft Footwear 0608,Women,Footwear,House of Loom,Women,391,50,4.7,4994,In Stock,196,70,70,12,12,12.0,2352.0,17.14
+PROD00646,House of Loom Top 0646,Women,Tops,Tiny Trails,Unisex,586,20,4.6,2693,In Stock,469,74,74,12,12,5.0,2345.0,16.22
+PROD00429,Tiny Trails Jean 0429,Women,Jeans,ColorPop,Unisex,1299,40,4.1,509,In Stock,779,69,69,7,7,3.0,2337.0,10.14
+PROD00107,Urban Thread Decor 0107,Home,Decor,Nova Living,Women,615,5,4.5,3930,In Stock,584,94,94,20,20,4.0,2336.0,21.28
+PROD00281,Street Theory Shirt 0281,Men,Shirts,Nova Living,Kids,2335,50,4.0,1887,In Stock,1168,84,84,8,8,2.0,2336.0,9.52
+PROD00566,Nova Living Footwear 0566,Kids,Footwear,ModeCraft,Women,779,25,4.2,3196,In Stock,584,83,83,14,14,4.0,2336.0,16.87
+PROD00968,Urban Thread Ethnic Set 0968,Women,Ethnic Sets,Urban Thread,Men,363,20,4.0,1616,In Stock,290,78,78,10,10,8.0,2320.0,12.82
+PROD00252,Aurelia Lane Dresse 0252,Kids,Dresses,Street Theory,Men,963,20,3.6,3316,In Stock,770,72,72,7,7,3.0,2310.0,9.72
+PROD00856,ColorPop Watche 0856,Men,Watches,Everyday Edit,Men,904,15,2.6,2159,In Stock,768,67,67,10,10,3.0,2304.0,14.93
+PROD00310,House of Loom Cushion Cover 0310,Home,Cushion Covers,GlowLab,Women,403,5,3.9,1807,In Stock,383,76,76,10,10,6.0,2298.0,13.16
+PROD00636,Street Theory Kurta 0636,Women,Kurtas,Aurelia Lane,Men,766,50,3.3,2829,In Stock,383,72,72,12,12,6.0,2298.0,16.67
+PROD00199,GlowLab Jean 0199,Men,Jeans,Tiny Trails,Kids,383,25,4.4,96,In Stock,287,96,96,11,11,8.0,2296.0,11.46
+PROD00166,ColorPop Kurta 0166,Women,Kurtas,ModeCraft,Unisex,420,40,3.7,3936,In Stock,252,68,68,11,11,9.0,2268.0,16.18
+PROD00832,Street Theory Handbag 0832,Women,Handbags,PureForm,Men,708,20,4.2,3522,In Stock,566,70,70,9,9,4.0,2264.0,12.86
+PROD00680,ColorPop Watche 0680,Men,Watches,Street Theory,Men,444,15,4.6,1766,Low Stock,377,81,81,11,11,6.0,2262.0,13.58
+PROD00073,Everyday Edit Jean 0073,Men,Jeans,Tiny Trails,Women,314,20,3.4,3287,In Stock,251,81,81,16,16,9.0,2259.0,19.75
+PROD00114,Urban Thread Skincare 0114,Beauty,Skincare,Street Theory,Women,938,40,5.0,3990,In Stock,563,82,82,11,11,4.0,2252.0,13.41
+PROD00814,GlowLab Haircare 0814,Beauty,Haircare,Nova Living,Men,250,0,3.7,3109,In Stock,250,78,78,14,14,9.0,2250.0,17.95
+PROD00236,PureForm Dresse 0236,Women,Dresses,Northline,Kids,2983,25,3.5,1431,In Stock,2237,66,66,9,9,1.0,2237.0,13.64
+PROD00264,PureForm Bottomwear 0264,Kids,Bottomwear,Aurelia Lane,Men,745,0,3.9,3611,In Stock,745,72,72,6,6,3.0,2235.0,8.33
+PROD00616,Urban Thread Footwear 0616,Women,Footwear,Tiny Trails,Women,531,30,4.6,621,Low Stock,372,84,84,8,8,6.0,2232.0,9.52
+PROD00510,PureForm T-Shirt 0510,Kids,T-Shirts,PureForm,Women,372,25,4.4,2244,In Stock,279,86,86,14,14,8.0,2232.0,16.28
+PROD00481,PureForm Footwear 0481,Men,Footwear,ModeCraft,Women,990,25,3.5,2902,In Stock,742,83,83,7,7,3.0,2226.0,8.43
+PROD00324,Street Theory Top 0324,Women,Tops,ModeCraft,Women,742,25,4.5,4102,Low Stock,556,79,79,12,12,4.0,2224.0,15.19
+PROD00630,Tiny Trails Handbag 0630,Women,Handbags,Urban Thread,Women,288,30,4.0,869,In Stock,202,70,70,8,8,11.0,2222.0,11.43
+PROD00945,ModeCraft Footwear 0945,Women,Footwear,Nova Living,Women,977,25,3.7,3935,In Stock,733,71,71,9,9,3.0,2199.0,12.68
+PROD00103,ColorPop Jean 0103,Women,Jeans,ColorPop,Unisex,418,25,2.2,3507,In Stock,314,83,83,13,13,7.0,2198.0,15.66
+PROD00574,Northline Kurta 0574,Women,Kurtas,Everyday Edit,Kids,915,20,4.0,2278,In Stock,732,77,77,10,10,3.0,2196.0,12.99
+PROD00890,Northline Jean 0890,Men,Jeans,Northline,Kids,323,25,4.4,3391,In Stock,242,74,74,13,13,9.0,2178.0,17.57
+PROD00025,GlowLab Bottomwear 0025,Kids,Bottomwear,Urban Thread,Women,544,20,2.8,3803,Low Stock,435,80,80,10,10,5.0,2175.0,12.5
+PROD00191,Street Theory Decor 0191,Home,Decor,Nova Living,Men,1359,20,3.8,530,Out of Stock,1087,50,50,6,6,2.0,2174.0,12.0
+PROD00033,Street Theory Kurta 0033,Women,Kurtas,ColorPop,Kids,441,30,4.0,1470,In Stock,309,81,81,9,9,7.0,2163.0,11.11
+PROD00855,ModeCraft Footwear 0855,Men,Footwear,PureForm,Women,438,30,3.6,2360,Out of Stock,307,76,76,11,11,7.0,2149.0,14.47
+PROD00499,Everyday Edit Makeup 0499,Beauty,Makeup,Urban Thread,Unisex,795,10,4.1,604,In Stock,716,87,87,8,8,3.0,2148.0,9.2
+PROD00593,GlowLab Jean 0593,Women,Jeans,Nova Living,Men,610,50,5.0,4268,In Stock,305,83,83,13,13,7.0,2135.0,15.66
+PROD00637,House of Loom Handbag 0637,Women,Handbags,Street Theory,Women,332,20,3.8,700,Low Stock,266,78,78,9,9,8.0,2128.0,11.54
+PROD00100,ColorPop Dresse 0100,Kids,Dresses,Nova Living,Kids,694,0,4.4,2883,In Stock,694,91,91,5,5,3.0,2082.0,5.49
+PROD00168,GlowLab Kurta 0168,Women,Kurtas,ColorPop,Kids,324,20,3.7,1805,In Stock,259,83,83,8,8,8.0,2072.0,9.64
+PROD00393,Everyday Edit Fragrance 0393,Beauty,Fragrance,Urban Thread,Kids,370,20,3.5,4450,Low Stock,296,70,70,12,12,7.0,2072.0,17.14
+PROD00405,Urban Thread Decor 0405,Home,Decor,PureForm,Women,1289,20,4.0,2282,Low Stock,1031,61,61,10,10,2.0,2062.0,16.39
+PROD00807,ColorPop Jean 0807,Men,Jeans,Tiny Trails,Men,478,15,5.0,1449,Low Stock,406,76,76,17,17,5.0,2030.0,22.37
+PROD00193,PureForm Handbag 0193,Women,Handbags,PureForm,Women,321,10,4.0,3562,Low Stock,289,80,80,15,15,7.0,2023.0,18.75
+PROD00356,Everyday Edit T-Shirt 0356,Men,T-Shirts,Everyday Edit,Women,249,10,3.4,4343,Low Stock,224,73,73,12,12,9.0,2016.0,16.44
+PROD00377,GlowLab Jean 0377,Men,Jeans,House of Loom,Men,1340,25,3.6,131,In Stock,1005,65,65,5,5,2.0,2010.0,7.69
+PROD00365,Street Theory Footwear 0365,Men,Footwear,ColorPop,Men,558,10,4.8,268,In Stock,502,68,68,7,7,4.0,2008.0,10.29
+PROD00185,Tiny Trails Ethnic Set 0185,Women,Ethnic Sets,ColorPop,Women,472,15,4.3,2042,In Stock,401,79,79,12,12,5.0,2005.0,15.19
+PROD00976,Urban Thread Decor 0976,Home,Decor,Everyday Edit,Women,446,10,3.9,825,In Stock,401,76,76,13,13,5.0,2005.0,17.11
+PROD00763,ColorPop Ethnic Wear 0763,Men,Ethnic Wear,Urban Thread,Men,786,15,3.6,3759,In Stock,668,67,67,8,8,3.0,2004.0,11.94
+PROD00838,Urban Thread T-Shirt 0838,Men,T-Shirts,Aurelia Lane,Unisex,950,30,3.1,4931,In Stock,665,68,68,8,8,3.0,1995.0,11.76
+PROD00086,ModeCraft Handbag 0086,Women,Handbags,Northline,Unisex,622,20,4.1,3182,In Stock,498,66,66,12,12,4.0,1992.0,18.18
+PROD00162,PureForm Makeup 0162,Beauty,Makeup,Northline,Men,369,40,4.3,336,In Stock,221,67,67,17,17,9.0,1989.0,25.37
+PROD00840,PureForm Shirt 0840,Men,Shirts,ColorPop,Women,1413,30,4.7,2959,In Stock,989,81,81,11,11,2.0,1978.0,13.58
+PROD00341,Everyday Edit Haircare 0341,Beauty,Haircare,House of Loom,Men,2462,20,3.7,2071,Low Stock,1970,87,87,11,11,1.0,1970.0,12.64
+PROD00876,Aurelia Lane Bottomwear 0876,Kids,Bottomwear,Urban Thread,Men,385,15,4.2,2366,In Stock,327,71,71,5,5,6.0,1962.0,7.04
+PROD00934,ColorPop Ethnic Set 0934,Women,Ethnic Sets,Street Theory,Kids,408,20,2.2,2238,In Stock,326,76,76,13,13,6.0,1956.0,17.11
+PROD00995,PureForm Shirt 0995,Men,Shirts,House of Loom,Women,651,40,3.6,4940,Out of Stock,391,72,72,9,9,5.0,1955.0,12.5
+PROD00410,GlowLab T-Shirt 0410,Kids,T-Shirts,Tiny Trails,Men,1081,40,4.4,4477,In Stock,649,64,64,11,11,3.0,1947.0,17.19
+PROD00707,Everyday Edit Handbag 0707,Women,Handbags,ModeCraft,Men,555,30,4.3,3158,Out of Stock,388,79,79,9,9,5.0,1940.0,11.39
+PROD00338,Nova Living Bedsheet 0338,Home,Bedsheets,Tiny Trails,Unisex,692,30,4.2,3915,In Stock,484,74,74,8,8,4.0,1936.0,10.81
+PROD00598,Nova Living Jean 0598,Women,Jeans,Everyday Edit,Unisex,481,0,4.8,4716,Out of Stock,481,71,71,7,7,4.0,1924.0,9.86
+PROD00058,ModeCraft Jean 0058,Women,Jeans,ColorPop,Men,801,20,4.7,4606,Low Stock,641,79,79,10,10,3.0,1923.0,12.66
+PROD00335,Street Theory Handbag 0335,Women,Handbags,GlowLab,Men,400,20,4.4,4894,Low Stock,320,70,70,9,9,6.0,1920.0,12.86
+PROD00701,GlowLab Footwear 0701,Kids,Footwear,Tiny Trails,Women,798,40,4.5,2710,Low Stock,479,57,57,5,5,4.0,1916.0,8.77
+PROD00869,Aurelia Lane Shirt 0869,Men,Shirts,House of Loom,Kids,477,20,4.3,1955,In Stock,382,78,78,9,9,5.0,1910.0,11.54
+PROD00404,ModeCraft Bottomwear 0404,Kids,Bottomwear,PureForm,Men,350,10,3.9,2552,In Stock,315,79,79,11,11,6.0,1890.0,13.92
+PROD00439,ModeCraft Decor 0439,Home,Decor,House of Loom,Women,896,30,4.0,2621,In Stock,627,77,77,8,8,3.0,1881.0,10.39
+PROD00731,GlowLab Shirt 0731,Men,Shirts,House of Loom,Women,521,40,3.6,2433,In Stock,313,63,63,7,7,6.0,1878.0,11.11
+PROD00501,Aurelia Lane Jean 0501,Women,Jeans,House of Loom,Women,494,5,4.5,1670,In Stock,469,69,69,7,7,4.0,1876.0,10.14
+PROD00916,Aurelia Lane Dresse 0916,Women,Dresses,ModeCraft,Men,469,0,4.0,1281,In Stock,469,77,77,8,8,4.0,1876.0,10.39
+PROD00137,GlowLab Storage 0137,Home,Storage,ModeCraft,Women,1251,25,3.1,2401,In Stock,938,80,80,12,12,2.0,1876.0,15.0
+PROD00614,Street Theory Top 0614,Women,Tops,PureForm,Men,233,20,3.6,4252,In Stock,186,85,85,13,13,10.0,1860.0,15.29
+PROD00094,PureForm Footwear 0094,Men,Footwear,GlowLab,Women,464,0,3.7,4164,In Stock,464,90,90,11,11,4.0,1856.0,12.22
+PROD00458,Aurelia Lane Kurta 0458,Women,Kurtas,PureForm,Unisex,772,40,4.1,1442,Low Stock,463,70,70,9,9,4.0,1852.0,12.86
+PROD00214,Aurelia Lane Jean 0214,Men,Jeans,GlowLab,Unisex,523,50,4.4,349,In Stock,262,82,82,18,18,7.0,1834.0,21.95
+PROD00852,Aurelia Lane Ethnic Set 0852,Women,Ethnic Sets,House of Loom,Men,760,20,4.2,2043,In Stock,608,72,72,8,8,3.0,1824.0,11.11
+PROD00484,GlowLab Footwear 0484,Women,Footwear,Nova Living,Men,1063,15,3.9,4133,In Stock,904,69,69,10,10,2.0,1808.0,14.49
+PROD00694,Urban Thread Handbag 0694,Women,Handbags,ColorPop,Women,476,5,3.9,26,In Stock,452,80,80,12,12,4.0,1808.0,15.0
+PROD00687,Northline Jean 0687,Men,Jeans,Street Theory,Unisex,801,25,3.6,921,In Stock,601,77,77,10,10,3.0,1803.0,12.99
+PROD00226,House of Loom Jean 0226,Women,Jeans,Tiny Trails,Kids,512,30,3.9,1507,In Stock,358,70,70,10,10,5.0,1790.0,14.29
+PROD00046,ColorPop Shirt 0046,Men,Shirts,ModeCraft,Kids,595,40,3.6,1087,In Stock,357,85,85,10,10,5.0,1785.0,11.76
+PROD00403,Urban Thread Shirt 0403,Men,Shirts,House of Loom,Unisex,624,5,3.2,2303,In Stock,593,72,72,7,7,3.0,1779.0,9.72
+PROD00695,House of Loom Shirt 0695,Men,Shirts,House of Loom,Men,778,25,3.9,4551,In Stock,584,60,60,6,6,3.0,1752.0,10.0
+PROD00985,Tiny Trails Dresse 0985,Women,Dresses,House of Loom,Kids,333,25,4.1,733,Low Stock,250,74,74,11,11,7.0,1750.0,14.86
+PROD00113,Nova Living Bottomwear 0113,Kids,Bottomwear,Everyday Edit,Men,322,10,3.9,2016,In Stock,290,77,77,17,17,6.0,1740.0,22.08
+PROD00665,Tiny Trails Skincare 0665,Beauty,Skincare,Street Theory,Men,415,30,4.2,354,Low Stock,290,84,84,8,8,6.0,1740.0,9.52
+PROD00777,Aurelia Lane Top 0777,Women,Tops,PureForm,Men,542,20,4.1,2039,In Stock,434,71,71,8,8,4.0,1736.0,11.27
+PROD00140,ColorPop T-Shirt 0140,Men,T-Shirts,ColorPop,Men,720,40,4.1,2228,In Stock,432,79,79,10,10,4.0,1728.0,12.66
+PROD00647,Aurelia Lane T-Shirt 0647,Men,T-Shirts,House of Loom,Women,308,20,4.0,1347,In Stock,246,82,82,11,11,7.0,1722.0,13.41
+PROD00930,Northline T-Shirt 0930,Men,T-Shirts,Street Theory,Men,1145,25,4.1,1415,In Stock,859,85,85,10,10,2.0,1718.0,11.76
+PROD00327,GlowLab Watche 0327,Men,Watches,Northline,Men,381,25,3.8,2822,In Stock,286,76,76,12,12,6.0,1716.0,15.79
+PROD00255,Nova Living Watche 0255,Men,Watches,PureForm,Women,355,20,3.5,3345,In Stock,284,81,81,8,8,6.0,1704.0,9.88
+PROD00026,Tiny Trails Top 0026,Women,Tops,Street Theory,Unisex,270,30,3.9,878,In Stock,189,73,73,10,10,9.0,1701.0,13.7
+PROD00551,GlowLab T-Shirt 0551,Kids,T-Shirts,Nova Living,Unisex,400,15,4.0,255,In Stock,340,67,67,9,9,5.0,1700.0,13.43
+PROD00047,Street Theory Top 0047,Women,Tops,House of Loom,Women,377,10,4.6,3447,In Stock,339,65,65,14,14,5.0,1695.0,21.54
+PROD00787,ColorPop Dresse 0787,Women,Dresses,Everyday Edit,Men,282,0,3.4,752,In Stock,282,66,66,11,11,6.0,1692.0,16.67
+PROD00224,GlowLab Kurta 0224,Women,Kurtas,Tiny Trails,Women,599,30,3.9,363,In Stock,419,82,82,18,18,4.0,1676.0,21.95
+PROD00115,Street Theory Kurta 0115,Women,Kurtas,ColorPop,Men,2780,40,4.0,2048,In Stock,1668,56,56,5,5,1.0,1668.0,8.93
+PROD00568,Everyday Edit Dresse 0568,Women,Dresses,House of Loom,Men,371,25,4.4,4866,In Stock,278,76,76,9,9,6.0,1668.0,11.84
+PROD00136,GlowLab Handbag 0136,Women,Handbags,Northline,Men,519,20,3.6,2220,Out of Stock,415,80,80,13,13,4.0,1660.0,16.25
+PROD00683,Northline Jean 0683,Men,Jeans,ModeCraft,Women,332,0,4.5,3771,Low Stock,332,67,67,10,10,5.0,1660.0,14.93
+PROD00308,Street Theory Jean 0308,Women,Jeans,Aurelia Lane,Women,487,15,4.6,3955,In Stock,414,68,68,5,5,4.0,1656.0,7.35
+PROD00452,Nova Living Top 0452,Women,Tops,Street Theory,Men,276,25,4.2,4406,In Stock,207,86,86,13,13,8.0,1656.0,15.12
+PROD00386,Tiny Trails Storage 0386,Home,Storage,Everyday Edit,Men,205,10,4.4,4945,In Stock,184,71,71,11,11,9.0,1656.0,15.49
+PROD00441,Urban Thread Footwear 0441,Women,Footwear,Tiny Trails,Men,362,25,3.1,424,In Stock,272,74,74,9,9,6.0,1632.0,12.16
+PROD00280,Aurelia Lane Fragrance 0280,Beauty,Fragrance,Urban Thread,Unisex,726,25,4.1,2939,In Stock,544,75,75,8,8,3.0,1632.0,10.67
+PROD00248,Aurelia Lane Storage 0248,Home,Storage,ColorPop,Women,247,40,4.3,443,In Stock,148,78,78,13,13,11.0,1628.0,16.67
+PROD00459,Urban Thread Storage 0459,Home,Storage,Northline,Kids,1161,30,4.1,3214,In Stock,813,75,75,7,7,2.0,1626.0,9.33
+PROD00542,Tiny Trails Jean 0542,Men,Jeans,Everyday Edit,Women,290,20,4.1,267,In Stock,232,78,78,14,14,7.0,1624.0,17.95
+PROD00290,Street Theory Footwear 0290,Kids,Footwear,Aurelia Lane,Men,772,30,3.6,3515,In Stock,540,73,73,6,6,3.0,1620.0,8.22
+PROD00068,Everyday Edit Watche 0068,Men,Watches,House of Loom,Women,449,40,2.8,995,In Stock,269,82,82,11,11,6.0,1614.0,13.41
+PROD00152,PureForm Watche 0152,Men,Watches,GlowLab,Women,538,0,3.8,4851,In Stock,538,70,70,6,6,3.0,1614.0,8.57
+PROD00479,Street Theory Haircare 0479,Beauty,Haircare,Aurelia Lane,Women,714,25,4.5,3807,In Stock,536,64,64,8,8,3.0,1608.0,12.5
+PROD00090,Urban Thread Footwear 0090,Women,Footwear,Nova Living,Men,383,30,3.9,1588,Out of Stock,268,81,81,12,12,6.0,1608.0,14.81
+PROD00231,Urban Thread Ethnic Wear 0231,Men,Ethnic Wear,Tiny Trails,Women,332,20,4.2,2075,In Stock,266,72,72,12,12,6.0,1596.0,16.67
+PROD00797,Aurelia Lane Top 0797,Women,Tops,Everyday Edit,Women,227,0,3.8,4055,In Stock,227,63,63,6,6,7.0,1589.0,9.52
+PROD00266,Tiny Trails Fragrance 0266,Beauty,Fragrance,Aurelia Lane,Women,376,30,4.9,451,In Stock,263,77,77,9,9,6.0,1578.0,11.69
+PROD00042,Tiny Trails Haircare 0042,Beauty,Haircare,GlowLab,Men,231,15,4.0,3855,In Stock,196,78,78,15,15,8.0,1568.0,19.23
+PROD00146,PureForm Decor 0146,Home,Decor,ModeCraft,Men,652,20,2.8,3982,Out of Stock,522,80,80,6,6,3.0,1566.0,7.5
+PROD00721,ModeCraft Cushion Cover 0721,Home,Cushion Covers,Tiny Trails,Men,447,30,4.4,3598,Out of Stock,313,89,89,12,12,5.0,1565.0,13.48
+PROD00674,Northline Shirt 0674,Men,Shirts,ModeCraft,Women,244,20,3.7,646,In Stock,195,79,79,17,17,8.0,1560.0,21.52
+PROD00715,Aurelia Lane Decor 0715,Home,Decor,GlowLab,Women,3105,50,3.6,447,Low Stock,1552,69,69,11,11,1.0,1552.0,15.94
+PROD00345,ModeCraft Shirt 0345,Men,Shirts,Street Theory,Men,387,20,3.7,1924,Low Stock,310,83,83,11,11,5.0,1550.0,13.25
+PROD00165,ModeCraft Kurta 0165,Women,Kurtas,Everyday Edit,Women,215,20,4.1,299,Low Stock,172,83,83,20,20,9.0,1548.0,24.1
+PROD00434,PureForm Top 0434,Women,Tops,House of Loom,Women,605,15,4.0,2443,In Stock,514,78,78,7,7,3.0,1542.0,8.97
+PROD00668,Tiny Trails Ethnic Set 0668,Women,Ethnic Sets,Aurelia Lane,Women,2568,40,3.9,785,In Stock,1541,75,75,12,12,1.0,1541.0,16.0
+PROD00244,Northline Top 0244,Women,Tops,PureForm,Women,220,30,3.5,2829,In Stock,154,77,77,10,10,10.0,1540.0,12.99
+PROD00555,House of Loom Ethnic Set 0555,Women,Ethnic Sets,Urban Thread,Women,429,30,3.5,861,Low Stock,300,70,70,7,7,5.0,1500.0,10.0
+PROD00054,GlowLab Bedsheet 0054,Home,Bedsheets,PureForm,Men,528,30,4.4,624,In Stock,370,65,65,5,5,4.0,1480.0,7.69
+PROD00605,GlowLab Top 0605,Women,Tops,Tiny Trails,Unisex,352,40,4.4,3965,In Stock,211,81,81,11,11,7.0,1477.0,13.58
+PROD00788,ColorPop Ethnic Set 0788,Women,Ethnic Sets,Urban Thread,Women,273,10,4.9,185,In Stock,246,80,80,13,13,6.0,1476.0,16.25
+PROD00929,ColorPop Jean 0929,Men,Jeans,Northline,Women,408,40,4.0,2736,In Stock,245,65,65,11,11,6.0,1470.0,16.92
+PROD00018,ModeCraft Shirt 0018,Men,Shirts,ModeCraft,Women,217,25,4.0,49,Low Stock,163,81,81,20,20,9.0,1467.0,24.69
+PROD00008,Nova Living Footwear 0008,Women,Footwear,Urban Thread,Kids,610,40,3.3,2800,In Stock,366,66,66,7,7,4.0,1464.0,10.61
+PROD00827,Nova Living Footwear 0827,Men,Footwear,House of Loom,Women,2901,50,4.3,696,In Stock,1450,74,74,11,11,1.0,1450.0,14.86
+PROD00754,Nova Living T-Shirt 0754,Kids,T-Shirts,House of Loom,Men,483,25,3.8,1506,In Stock,362,65,65,8,8,4.0,1448.0,12.31
+PROD00875,GlowLab Dresse 0875,Kids,Dresses,House of Loom,Unisex,847,15,4.5,3952,In Stock,720,75,75,5,5,2.0,1440.0,6.67
+PROD00437,ModeCraft Cushion Cover 0437,Home,Cushion Covers,Tiny Trails,Men,399,40,3.2,1606,In Stock,239,59,59,10,10,6.0,1434.0,16.95
+PROD00089,Street Theory Cushion Cover 0089,Home,Cushion Covers,Northline,Unisex,256,30,4.4,995,In Stock,179,77,77,8,8,8.0,1432.0,10.39
+PROD00257,Aurelia Lane Ethnic Set 0257,Women,Ethnic Sets,ModeCraft,Men,239,25,4.3,4531,Low Stock,179,89,89,12,12,8.0,1432.0,13.48
+PROD00074,House of Loom Kurta 0074,Women,Kurtas,Everyday Edit,Women,478,25,4.2,904,In Stock,358,61,61,5,5,4.0,1432.0,8.2
+PROD00762,Urban Thread Kurta 0762,Women,Kurtas,Street Theory,Kids,567,50,4.2,1808,In Stock,284,72,72,8,8,5.0,1420.0,11.11
+PROD00462,Aurelia Lane Dresse 0462,Women,Dresses,Street Theory,Men,355,20,3.5,484,In Stock,284,65,65,8,8,5.0,1420.0,12.31
+PROD00942,Street Theory Ethnic Set 0942,Women,Ethnic Sets,GlowLab,Men,378,25,3.4,3655,In Stock,284,74,74,9,9,5.0,1420.0,12.16
+PROD00866,Nova Living Shirt 0866,Men,Shirts,ModeCraft,Men,583,40,3.5,3097,Low Stock,350,65,65,7,7,4.0,1400.0,10.77
+PROD00251,Urban Thread Makeup 0251,Beauty,Makeup,House of Loom,Women,284,30,3.7,3494,In Stock,199,74,74,15,15,7.0,1393.0,20.27
+PROD00198,PureForm Footwear 0198,Women,Footwear,Tiny Trails,Women,309,10,3.5,1239,In Stock,278,60,60,10,10,5.0,1390.0,16.67
+PROD00778,Urban Thread Footwear 0778,Men,Footwear,Nova Living,Women,232,15,3.6,2588,In Stock,197,83,83,13,13,7.0,1379.0,15.66
+PROD00584,Urban Thread Makeup 0584,Beauty,Makeup,Nova Living,Unisex,255,40,4.5,2076,In Stock,153,81,81,14,14,9.0,1377.0,17.28
+PROD00171,Everyday Edit Jean 0171,Men,Jeans,Street Theory,Women,228,40,4.1,4756,In Stock,137,82,82,14,14,10.0,1370.0,17.07
+PROD00872,ModeCraft Storage 0872,Home,Storage,Nova Living,Women,364,25,3.4,2132,In Stock,273,80,80,13,13,5.0,1365.0,16.25
+PROD00347,Street Theory Jean 0347,Women,Jeans,GlowLab,Unisex,282,20,3.4,3105,Low Stock,226,78,78,15,15,6.0,1356.0,19.23
+PROD00260,PureForm Bedsheet 0260,Home,Bedsheets,Urban Thread,Men,210,20,3.8,1612,In Stock,168,76,76,8,8,8.0,1344.0,10.53
+PROD00678,PureForm Kurta 0678,Women,Kurtas,Street Theory,Unisex,213,10,4.3,291,In Stock,192,73,73,13,13,7.0,1344.0,17.81
+PROD00771,House of Loom Footwear 0771,Women,Footwear,Northline,Women,225,15,3.7,3380,In Stock,191,78,78,6,6,7.0,1337.0,7.69
+PROD00883,Urban Thread Bottomwear 0883,Kids,Bottomwear,GlowLab,Men,950,30,2.9,4535,In Stock,665,69,69,6,6,2.0,1330.0,8.7
+PROD00463,Northline Handbag 0463,Women,Handbags,PureForm,Men,331,0,4.1,691,In Stock,331,84,84,11,11,4.0,1324.0,13.1
+PROD00688,Tiny Trails Jean 0688,Men,Jeans,ModeCraft,Women,520,50,3.3,918,Out of Stock,260,81,81,9,9,5.0,1300.0,11.11
+PROD00209,Street Theory Footwear 0209,Women,Footwear,ColorPop,Women,381,15,3.6,3420,In Stock,324,70,70,6,6,4.0,1296.0,8.57
+PROD00983,Aurelia Lane Ethnic Wear 0983,Men,Ethnic Wear,Aurelia Lane,Men,480,10,3.5,1292,In Stock,432,82,82,13,13,3.0,1296.0,15.85
+PROD00994,GlowLab Storage 0994,Home,Storage,GlowLab,Men,239,40,3.9,1521,In Stock,143,76,76,13,13,9.0,1287.0,17.11
+PROD00813,Tiny Trails Jean 0813,Women,Jeans,Aurelia Lane,Unisex,302,15,4.2,882,In Stock,257,65,65,9,9,5.0,1285.0,13.85
+PROD00799,GlowLab Ethnic Set 0799,Women,Ethnic Sets,ColorPop,Men,257,0,4.0,4235,In Stock,257,72,72,9,9,5.0,1285.0,12.5
+PROD00760,Aurelia Lane Jean 0760,Men,Jeans,Everyday Edit,Men,853,25,2.7,323,In Stock,640,77,77,7,7,2.0,1280.0,9.09
+PROD00174,GlowLab Bedsheet 0174,Home,Bedsheets,ModeCraft,Women,266,20,3.8,2904,In Stock,213,81,81,8,8,6.0,1278.0,9.88
+PROD00606,Everyday Edit Ethnic Set 0606,Women,Ethnic Sets,Street Theory,Kids,746,15,3.8,4988,Low Stock,634,67,67,10,10,2.0,1268.0,14.93
+PROD00798,ColorPop T-Shirt 0798,Men,T-Shirts,GlowLab,Women,562,25,4.8,119,In Stock,422,75,75,7,7,3.0,1266.0,9.33
+PROD00359,Tiny Trails Jean 0359,Men,Jeans,Urban Thread,Women,528,20,3.3,2508,Low Stock,422,82,82,9,9,3.0,1266.0,10.98
+PROD00024,ColorPop Footwear 0024,Women,Footwear,ColorPop,Men,442,5,3.6,406,In Stock,420,73,73,11,11,3.0,1260.0,15.07
+PROD00232,Everyday Edit Dresse 0232,Women,Dresses,Urban Thread,Men,296,15,3.6,3336,In Stock,252,57,57,12,12,5.0,1260.0,21.05
+PROD00323,PureForm Bottomwear 0323,Kids,Bottomwear,Nova Living,Men,294,30,3.7,2574,In Stock,206,60,60,12,12,6.0,1236.0,20.0
+PROD00354,Urban Thread Jean 0354,Women,Jeans,House of Loom,Women,353,30,3.9,119,In Stock,247,69,69,8,8,5.0,1235.0,11.59
+PROD00545,PureForm Dresse 0545,Women,Dresses,House of Loom,Men,457,10,4.0,3805,Out of Stock,411,79,79,7,7,3.0,1233.0,8.86
+PROD00172,Street Theory Ethnic Wear 0172,Men,Ethnic Wear,Northline,Men,703,15,3.4,2933,In Stock,598,74,74,7,7,2.0,1196.0,9.46
+PROD00119,Nova Living Decor 0119,Home,Decor,Tiny Trails,Women,397,25,4.4,2732,In Stock,298,72,72,9,9,4.0,1192.0,12.5
+PROD00065,PureForm Jean 0065,Men,Jeans,Urban Thread,Unisex,464,15,4.9,212,In Stock,394,73,73,11,11,3.0,1182.0,15.07
+PROD00923,Everyday Edit Storage 0923,Home,Storage,Urban Thread,Women,210,20,3.3,3646,In Stock,168,81,81,11,11,7.0,1176.0,13.58
+PROD00204,ColorPop Top 0204,Women,Tops,Urban Thread,Women,333,30,3.5,4713,In Stock,233,60,60,6,6,5.0,1165.0,10.0
+PROD00612,Urban Thread Handbag 0612,Women,Handbags,Urban Thread,Women,364,20,3.1,783,In Stock,291,79,79,11,11,4.0,1164.0,13.92
+PROD00667,PureForm Makeup 0667,Beauty,Makeup,Street Theory,Women,772,25,3.7,4594,Low Stock,579,79,79,3,3,2.0,1158.0,3.8
+PROD00620,Northline Kurta 0620,Women,Kurtas,ModeCraft,Men,218,25,3.7,891,In Stock,164,79,79,9,9,7.0,1148.0,11.39
+PROD00639,House of Loom Footwear 0639,Women,Footwear,House of Loom,Unisex,219,25,3.9,1396,Low Stock,164,84,84,11,11,7.0,1148.0,13.1
+PROD00974,Tiny Trails T-Shirt 0974,Kids,T-Shirts,Urban Thread,Unisex,209,50,3.8,1533,In Stock,104,87,87,12,12,11.0,1144.0,13.79
+PROD00355,ModeCraft Fragrance 0355,Beauty,Fragrance,PureForm,Women,316,10,3.6,1309,In Stock,284,63,63,10,10,4.0,1136.0,15.87
+PROD00406,ModeCraft Handbag 0406,Women,Handbags,Urban Thread,Women,213,25,4.0,1169,Low Stock,160,72,72,6,6,7.0,1120.0,8.33
+PROD00080,Aurelia Lane Jean 0080,Women,Jeans,GlowLab,Women,371,25,4.0,1574,Low Stock,278,77,77,14,14,4.0,1112.0,18.18
+PROD00766,Everyday Edit T-Shirt 0766,Men,T-Shirts,ModeCraft,Men,462,20,5.0,1660,In Stock,370,69,69,9,9,3.0,1110.0,13.04
+PROD00017,Nova Living Cushion Cover 0017,Home,Cushion Covers,Northline,Women,494,25,2.9,3694,In Stock,370,69,69,8,8,3.0,1110.0,11.59
+PROD00817,PureForm Jean 0817,Women,Jeans,Street Theory,Men,305,10,3.8,1629,In Stock,274,74,74,13,13,4.0,1096.0,17.57
+PROD00713,Tiny Trails Watche 0713,Men,Watches,House of Loom,Men,227,5,3.7,2662,In Stock,216,81,81,6,6,5.0,1080.0,7.41
+PROD00570,Aurelia Lane Footwear 0570,Women,Footwear,Aurelia Lane,Unisex,515,30,3.4,4861,In Stock,360,62,62,8,8,3.0,1080.0,12.9
+PROD00538,Aurelia Lane Watche 0538,Men,Watches,Nova Living,Unisex,383,30,5.0,293,In Stock,268,68,68,6,6,4.0,1072.0,8.82
+PROD00638,Urban Thread Dresse 0638,Women,Dresses,House of Loom,Women,295,10,4.2,4411,In Stock,266,79,79,8,8,4.0,1064.0,10.13
+PROD00381,PureForm Footwear 0381,Women,Footwear,Northline,Kids,294,40,3.9,267,Low Stock,176,65,65,12,12,6.0,1056.0,18.46
+PROD00205,Tiny Trails Footwear 0205,Men,Footwear,ModeCraft,Kids,218,5,3.5,1062,In Stock,207,79,79,7,7,5.0,1035.0,8.86
+PROD00672,ModeCraft Jean 0672,Women,Jeans,Everyday Edit,Men,538,5,4.4,862,Out of Stock,511,79,79,8,8,2.0,1022.0,10.13
+PROD00990,Street Theory Dresse 0990,Women,Dresses,Everyday Edit,Women,510,50,4.1,1051,Low Stock,255,72,72,10,10,4.0,1020.0,13.89
+PROD00902,House of Loom Watche 0902,Men,Watches,Nova Living,Men,288,30,3.3,4585,In Stock,202,76,76,11,11,5.0,1010.0,14.47
+PROD00609,Nova Living Top 0609,Women,Tops,Street Theory,Unisex,265,25,2.9,2175,In Stock,199,76,76,9,9,5.0,995.0,11.84
+PROD00627,Street Theory Top 0627,Women,Tops,Aurelia Lane,Women,233,15,4.3,2457,In Stock,198,79,79,7,7,5.0,990.0,8.86
+PROD00730,Urban Thread T-Shirt 0730,Men,T-Shirts,PureForm,Men,309,20,4.1,3707,Low Stock,247,68,68,9,9,4.0,988.0,13.24
+PROD00041,House of Loom Ethnic Wear 0041,Men,Ethnic Wear,Everyday Edit,Men,579,15,3.9,4078,In Stock,492,78,78,10,10,2.0,984.0,12.82
+PROD00143,Aurelia Lane Shirt 0143,Men,Shirts,Northline,Women,232,40,4.1,3247,In Stock,139,76,76,13,13,7.0,973.0,17.11
+PROD00621,PureForm Haircare 0621,Beauty,Haircare,GlowLab,Women,202,20,4.7,1029,In Stock,162,80,80,9,9,6.0,972.0,11.25
+PROD00322,ColorPop Watche 0322,Men,Watches,Aurelia Lane,Women,346,30,3.2,1394,Low Stock,242,79,79,10,10,4.0,968.0,12.66
+PROD00015,Aurelia Lane Ethnic Wear 0015,Men,Ethnic Wear,Northline,Men,1612,40,5.0,2174,In Stock,967,79,79,7,7,1.0,967.0,8.86
+PROD00628,Tiny Trails Top 0628,Women,Tops,PureForm,Women,200,20,3.9,4939,In Stock,160,63,63,16,16,6.0,960.0,25.4
+PROD00182,Nova Living Footwear 0182,Women,Footwear,ModeCraft,Women,229,40,4.2,3852,In Stock,137,63,63,8,8,7.0,959.0,12.7
+PROD00546,Northline Jean 0546,Men,Jeans,House of Loom,Men,478,0,4.2,470,In Stock,478,85,85,14,14,2.0,956.0,16.47
+PROD00558,Nova Living Ethnic Wear 0558,Men,Ethnic Wear,Aurelia Lane,Men,374,15,3.6,3148,In Stock,318,67,67,9,9,3.0,954.0,13.43
+PROD00874,Tiny Trails Storage 0874,Home,Storage,Tiny Trails,Women,317,25,4.2,2116,In Stock,238,70,70,9,9,4.0,952.0,12.86
+PROD00302,Aurelia Lane T-Shirt 0302,Men,T-Shirts,ModeCraft,Women,521,10,3.6,3317,In Stock,469,64,64,7,7,2.0,938.0,10.94
+PROD00442,Aurelia Lane Shirt 0442,Men,Shirts,Street Theory,Men,246,5,4.2,2095,In Stock,234,81,81,8,8,4.0,936.0,9.88
+PROD00153,Urban Thread Bedsheet 0153,Home,Bedsheets,Northline,Men,260,40,4.8,3752,In Stock,156,78,78,12,12,6.0,936.0,15.38
+PROD00733,ColorPop Ethnic Wear 0733,Men,Ethnic Wear,ColorPop,Women,622,50,3.3,2822,In Stock,311,78,78,11,11,3.0,933.0,14.1
+PROD00183,ColorPop Jean 0183,Women,Jeans,Aurelia Lane,Unisex,291,20,3.2,1879,In Stock,233,68,68,7,7,4.0,932.0,10.29
+PROD00922,Aurelia Lane Jean 0922,Men,Jeans,Nova Living,Unisex,207,25,3.9,2892,Low Stock,155,75,75,9,9,6.0,930.0,12.0
+PROD00078,House of Loom Jean 0078,Men,Jeans,Everyday Edit,Men,273,15,3.6,456,In Stock,232,71,71,11,11,4.0,928.0,15.49
+PROD00118,GlowLab Jean 0118,Women,Jeans,Everyday Edit,Unisex,205,10,4.8,2007,Low Stock,184,72,72,8,8,5.0,920.0,11.11
+PROD00417,Tiny Trails Jean 0417,Men,Jeans,Nova Living,Men,451,0,3.5,4837,In Stock,451,76,76,5,5,2.0,902.0,6.58
+PROD00422,ColorPop Dresse 0422,Kids,Dresses,PureForm,Men,254,30,3.8,2070,In Stock,178,82,82,8,8,5.0,890.0,9.76
+PROD00539,Everyday Edit Cushion Cover 0539,Home,Cushion Covers,Nova Living,Women,295,25,3.6,2499,In Stock,221,68,68,9,9,4.0,884.0,13.24
+PROD00529,GlowLab Skincare 0529,Beauty,Skincare,Northline,Women,231,25,3.4,4533,In Stock,173,69,69,7,7,5.0,865.0,10.14
+PROD00921,Northline Shirt 0921,Men,Shirts,Tiny Trails,Unisex,308,30,4.4,1737,In Stock,216,78,78,16,16,4.0,864.0,20.51
+PROD00952,Aurelia Lane Jean 0952,Men,Jeans,Urban Thread,Women,576,25,4.3,2753,In Stock,432,72,72,10,10,2.0,864.0,13.89
+PROD00039,ModeCraft Jean 0039,Men,Jeans,Street Theory,Men,204,30,5.0,1157,In Stock,143,66,66,10,10,6.0,858.0,15.15
+PROD00969,ModeCraft Kurta 0969,Women,Kurtas,Tiny Trails,Men,358,20,3.7,769,Out of Stock,286,74,74,10,10,3.0,858.0,13.51
+PROD00803,Northline T-Shirt 0803,Men,T-Shirts,PureForm,Men,231,10,4.2,4508,In Stock,208,105,105,15,15,4.0,832.0,14.29
+PROD00383,House of Loom Storage 0383,Home,Storage,Street Theory,Men,277,25,3.2,2774,In Stock,208,62,62,7,7,4.0,832.0,11.29
+PROD00444,Everyday Edit Handbag 0444,Women,Handbags,Tiny Trails,Men,396,30,3.4,4039,In Stock,277,61,61,9,9,3.0,831.0,14.75
+PROD00802,Tiny Trails Handbag 0802,Women,Handbags,House of Loom,Kids,218,25,3.9,3895,In Stock,164,66,66,11,11,5.0,820.0,16.67
+PROD00984,PureForm Skincare 0984,Beauty,Skincare,Nova Living,Women,314,15,4.0,3055,Low Stock,267,76,76,10,10,3.0,801.0,13.16
+PROD00112,Tiny Trails Ethnic Set 0112,Women,Ethnic Sets,ColorPop,Men,267,0,4.4,2237,In Stock,267,90,90,12,12,3.0,801.0,13.33
+PROD00821,ColorPop Dresse 0821,Kids,Dresses,Aurelia Lane,Men,225,30,4.8,3631,Out of Stock,158,83,83,11,11,5.0,790.0,13.25
+PROD00816,ModeCraft Ethnic Wear 0816,Men,Ethnic Wear,Tiny Trails,Women,561,30,4.7,3075,In Stock,393,68,68,10,10,2.0,786.0,14.71
+PROD00051,PureForm Jean 0051,Men,Jeans,ColorPop,Men,282,10,4.1,4663,In Stock,254,75,75,11,11,3.0,762.0,14.67
+PROD00084,Urban Thread Dresse 0084,Women,Dresses,Street Theory,Men,236,20,4.1,79,In Stock,189,74,74,5,5,4.0,756.0,6.76
+PROD00334,Tiny Trails Top 0334,Women,Tops,ColorPop,Men,877,15,4.6,3030,In Stock,745,76,76,13,13,1.0,745.0,17.11
+PROD00755,Urban Thread Handbag 0755,Women,Handbags,Aurelia Lane,Kids,219,15,4.6,4594,In Stock,186,76,76,9,9,4.0,744.0,11.84
+PROD00980,ColorPop Shirt 0980,Men,Shirts,Nova Living,Men,855,15,3.8,125,In Stock,727,76,76,12,12,1.0,727.0,15.79
+PROD00194,Street Theory Fragrance 0194,Beauty,Fragrance,Nova Living,Women,253,30,5.0,4018,In Stock,177,75,75,12,12,4.0,708.0,16.0
+PROD00673,Aurelia Lane Makeup 0673,Beauty,Makeup,PureForm,Men,254,10,4.1,34,In Stock,229,77,77,7,7,3.0,687.0,9.09
+PROD00228,House of Loom Ethnic Wear 0228,Men,Ethnic Wear,ModeCraft,Men,303,25,4.3,377,In Stock,227,71,71,11,11,3.0,681.0,15.49
+PROD00216,ModeCraft T-Shirt 0216,Men,T-Shirts,Aurelia Lane,Men,250,10,2.5,3837,In Stock,225,59,59,6,6,3.0,675.0,10.17
+PROD00900,House of Loom Shirt 0900,Men,Shirts,Northline,Men,213,25,4.4,4163,Out of Stock,160,69,69,8,8,4.0,640.0,11.59
+PROD00881,Street Theory Jean 0881,Men,Jeans,Nova Living,Unisex,425,25,3.1,4193,Out of Stock,319,70,70,5,5,2.0,638.0,7.14
+PROD00914,ColorPop Kurta 0914,Women,Kurtas,GlowLab,Women,281,25,4.6,1615,In Stock,211,86,86,9,9,3.0,633.0,10.47
+PROD00135,Street Theory Footwear 0135,Kids,Footwear,Tiny Trails,Men,218,5,4.2,911,Low Stock,207,69,69,9,9,3.0,621.0,13.04
+PROD00532,ColorPop Bedsheet 0532,Home,Bedsheets,PureForm,Women,230,10,4.2,2719,In Stock,207,83,83,12,12,3.0,621.0,14.46
+PROD00037,House of Loom Dresse 0037,Women,Dresses,GlowLab,Men,413,50,3.9,1725,Low Stock,206,72,72,12,12,3.0,618.0,16.67
+PROD00989,House of Loom Makeup 0989,Beauty,Makeup,Urban Thread,Women,274,25,3.6,577,In Stock,206,82,82,9,9,3.0,618.0,10.98
+PROD00207,Nova Living Bottomwear 0207,Kids,Bottomwear,PureForm,Kids,201,25,4.3,1990,In Stock,151,83,83,14,14,4.0,604.0,16.87
+PROD00919,Street Theory Dresse 0919,Kids,Dresses,Northline,Men,214,30,3.0,2942,In Stock,150,72,72,4,4,4.0,600.0,5.56
+PROD00958,Everyday Edit Bedsheet 0958,Home,Bedsheets,Urban Thread,Men,324,10,4.2,2747,In Stock,292,67,67,3,3,2.0,584.0,4.48
+PROD00867,Northline Ethnic Set 0867,Women,Ethnic Sets,Tiny Trails,Women,336,15,4.6,4079,In Stock,286,53,53,4,4,2.0,572.0,7.55
+PROD00067,Urban Thread Shirt 0067,Men,Shirts,Nova Living,Women,229,50,3.9,397,In Stock,114,77,77,9,9,5.0,570.0,11.69
+PROD00071,PureForm Top 0071,Women,Tops,Tiny Trails,Men,221,15,3.5,2483,Out of Stock,188,59,59,8,8,3.0,564.0,13.56
+PROD00339,Street Theory Skincare 0339,Beauty,Skincare,PureForm,Kids,684,20,3.9,1048,In Stock,547,65,65,4,4,1.0,547.0,6.15
+PROD00705,House of Loom Decor 0705,Home,Decor,House of Loom,Women,358,50,3.5,3245,In Stock,179,96,96,9,9,3.0,537.0,9.38
+PROD00811,ModeCraft Handbag 0811,Women,Handbags,Tiny Trails,Women,211,15,3.5,2559,In Stock,179,64,64,4,4,3.0,537.0,6.25
+PROD00554,ModeCraft Handbag 0554,Women,Handbags,Tiny Trails,Unisex,625,15,4.6,2885,In Stock,531,85,85,7,7,1.0,531.0,8.24
+PROD00804,Nova Living Dresse 0804,Women,Dresses,ModeCraft,Women,436,40,3.8,2656,Low Stock,262,72,72,9,9,2.0,524.0,12.5
+PROD00085,ModeCraft Watche 0085,Men,Watches,Nova Living,Men,255,0,3.9,3683,In Stock,255,76,76,8,8,2.0,510.0,10.53
+PROD00200,Everyday Edit Bottomwear 0200,Kids,Bottomwear,Urban Thread,Women,253,0,4.4,1025,In Stock,253,72,72,7,7,2.0,506.0,9.72
+PROD00099,ColorPop Handbag 0099,Women,Handbags,Everyday Edit,Women,202,40,4.4,1378,In Stock,121,69,69,11,11,4.0,484.0,15.94
+PROD00641,Tiny Trails Ethnic Set 0641,Women,Ethnic Sets,ColorPop,Unisex,214,25,3.3,926,In Stock,160,69,69,5,5,3.0,480.0,7.25
+PROD00735,Nova Living Decor 0735,Home,Decor,Everyday Edit,Women,241,50,3.7,4622,In Stock,120,82,82,8,8,4.0,480.0,9.76
+PROD00261,ModeCraft Kurta 0261,Women,Kurtas,Street Theory,Men,259,40,3.5,931,In Stock,155,88,88,10,10,3.0,465.0,11.36
+PROD00590,ModeCraft Ethnic Wear 0590,Men,Ethnic Wear,Everyday Edit,Women,461,0,4.5,2940,Low Stock,461,68,68,6,6,1.0,461.0,8.82
+PROD00081,Tiny Trails T-Shirt 0081,Kids,T-Shirts,Everyday Edit,Men,299,25,4.0,522,In Stock,224,68,68,10,10,2.0,448.0,14.71
+PROD00387,ColorPop Ethnic Set 0387,Women,Ethnic Sets,PureForm,Women,566,25,3.3,916,In Stock,424,70,70,8,8,1.0,424.0,11.43
+PROD00770,Tiny Trails Decor 0770,Home,Decor,Northline,Men,212,40,3.2,938,Low Stock,127,69,69,4,4,3.0,381.0,5.8
+PROD00745,Street Theory Top 0745,Women,Tops,ModeCraft,Men,250,25,5.0,1092,In Stock,188,84,84,9,9,2.0,376.0,10.71
+PROD00206,PureForm Shirt 0206,Men,Shirts,Everyday Edit,Kids,534,30,3.7,3261,In Stock,374,63,63,8,8,1.0,374.0,12.7
+PROD00076,Tiny Trails Makeup 0076,Beauty,Makeup,ModeCraft,Men,290,40,3.1,1129,Low Stock,174,62,62,6,6,2.0,348.0,9.68
+PROD00629,ColorPop Jean 0629,Men,Jeans,ColorPop,Women,211,20,4.2,1533,Low Stock,169,84,84,10,10,2.0,338.0,11.9
+PROD00761,House of Loom Fragrance 0761,Beauty,Fragrance,Nova Living,Unisex,213,50,2.4,745,In Stock,106,73,73,5,5,3.0,318.0,6.85
+PROD00540,GlowLab Ethnic Wear 0540,Men,Ethnic Wear,ModeCraft,Men,375,25,3.6,4321,Low Stock,281,81,81,6,6,1.0,281.0,7.41
+PROD01000,ModeCraft Jean 1000,Men,Jeans,ColorPop,Kids,334,20,4.6,3585,In Stock,267,79,79,10,10,1.0,267.0,12.66
+PROD00805,GlowLab Handbag 0805,Women,Handbags,ModeCraft,Women,221,40,3.7,4048,In Stock,133,91,91,12,12,2.0,266.0,13.19
+PROD00801,Street Theory Storage 0801,Home,Storage,Street Theory,Women,2712,20,4.2,3151,Low Stock,2170,64,64,4,4,0.0,0.0,6.25
+PROD00241,Everyday Edit Footwear 0241,Men,Footwear,Northline,Women,780,5,4.3,4844,In Stock,741,84,84,14,14,0.0,0.0,16.67
+PROD00640,Aurelia Lane Dresse 0640,Women,Dresses,ColorPop,Women,392,0,2.7,3728,In Stock,392,62,62,7,7,0.0,0.0,11.29
+PROD00317,Northline Cushion Cover 0317,Home,Cushion Covers,Urban Thread,Women,266,40,3.9,1607,In Stock,160,81,81,10,10,0.0,0.0,12.35
+PROD00725,Tiny Trails Footwear 0725,Men,Footwear,PureForm,Men,351,10,4.3,3958,In Stock,316,74,74,4,4,0.0,0.0,5.41
+PROD00833,ModeCraft Jean 0833,Men,Jeans,ModeCraft,Women,401,30,4.3,3381,In Stock,281,75,75,7,7,0.0,0.0,9.33
+PROD00886,GlowLab Dresse 0886,Kids,Dresses,ModeCraft,Kids,1375,10,4.1,554,Low Stock,1238,76,76,11,11,0.0,0.0,14.47
+PROD00418,PureForm Ethnic Set 0418,Women,Ethnic Sets,Tiny Trails,Women,3479,30,4.0,4640,Low Stock,2435,84,84,10,10,0.0,0.0,11.9
+PROD00944,Northline Ethnic Wear 0944,Men,Ethnic Wear,ColorPop,Kids,620,10,4.3,4046,In Stock,558,77,77,6,6,0.0,0.0,7.79

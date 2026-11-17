@@ -1,0 +1,5 @@
+event_type,unique_sessions,conversion_from_product_views_pct,step_conversion_pct
+view_product,30000,100.0,
+add_to_cart,10320,34.4,34.4
+begin_checkout,5989,19.96,58.03
+purchase,3662,12.21,61.15

@@ -1,0 +1,5 @@
+device_type,sessions,product_view_sessions,cart_sessions,checkout_sessions,purchase_sessions,session_to_purchase_pct
+Android,12626,12626,4338,2543,1558,12.34
+Desktop,5379,5379,1904,1077,683,12.7
+Mobile Web,5898,5898,2025,1186,738,12.51
+iOS,6097,6097,2053,1183,683,11.2
