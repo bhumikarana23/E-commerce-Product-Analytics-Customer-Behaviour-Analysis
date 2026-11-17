@@ -1,0 +1,273 @@
+
+/*
+PROJECT: E-Commerce Product Analytics & Customer Behaviour Analysis
+FILE: 03_dax_measures.dax
+PURPOSE: DAX measures used in the Power BI dashboard
+
+NOTE:
+These measures assume the following table and column names.
+Verify them against your imported dataset before using them.
+*/
+
+
+// =====================================================
+// 1. OVERALL BUSINESS KPIs
+// =====================================================
+
+Total Customers =
+DISTINCTCOUNT(customers[customer_id])
+
+
+Total Products =
+DISTINCTCOUNT(products[product_id])
+
+
+Total Sessions =
+DISTINCTCOUNT(events[session_id])
+
+
+Total Orders =
+DISTINCTCOUNT(orders[order_id])
+
+
+Total Revenue =
+SUM(orders[total_amount])
+
+
+Average Order Value =
+DIVIDE(
+    [Total Revenue],
+    [Total Orders],
+    0
+)
+
+
+// =====================================================
+// 2. ORDER PERFORMANCE
+// =====================================================
+
+Delivered Orders =
+CALCULATE(
+    DISTINCTCOUNT(orders[order_id]),
+    orders[order_status] = "delivered"
+)
+
+
+Delivered Revenue =
+CALCULATE(
+    SUM(orders[total_amount]),
+    orders[order_status] = "delivered"
+)
+
+
+Delivered Order AOV =
+DIVIDE(
+    [Delivered Revenue],
+    [Delivered Orders],
+    0
+)
+
+
+Cancelled Orders =
+CALCULATE(
+    DISTINCTCOUNT(orders[order_id]),
+    orders[order_status] = "cancelled"
+)
+
+
+Returned Orders =
+CALCULATE(
+    DISTINCTCOUNT(orders[order_id]),
+    orders[order_status] = "returned"
+)
+
+
+Cancellation Rate (%) =
+DIVIDE(
+    [Cancelled Orders],
+    [Total Orders],
+    0
+) * 100
+
+
+Return Rate (%) =
+DIVIDE(
+    [Returned Orders],
+    [Total Orders],
+    0
+) * 100
+
+
+// =====================================================
+// 3. CUSTOMER BEHAVIOUR
+// =====================================================
+
+Repeat Customers =
+COUNTROWS(
+    FILTER(
+        VALUES(orders[customer_id]),
+        CALCULATE(
+            DISTINCTCOUNT(orders[order_id])
+        ) > 1
+    )
+)
+
+
+One-Time Customers =
+COUNTROWS(
+    FILTER(
+        VALUES(orders[customer_id]),
+        CALCULATE(
+            DISTINCTCOUNT(orders[order_id])
+        ) = 1
+    )
+)
+
+
+Repeat Purchase Rate (%) =
+DIVIDE(
+    [Repeat Customers],
+    DISTINCTCOUNT(orders[customer_id]),
+    0
+) * 100
+
+
+Average Orders Per Customer =
+DIVIDE(
+    [Total Orders],
+    DISTINCTCOUNT(orders[customer_id]),
+    0
+)
+
+
+Revenue Per Customer =
+DIVIDE(
+    [Total Revenue],
+    DISTINCTCOUNT(orders[customer_id]),
+    0
+)
+
+
+// =====================================================
+// 4. CUSTOMER JOURNEY & CONVERSION FUNNEL
+// =====================================================
+
+Product Views =
+CALCULATE(
+    COUNTROWS(events),
+    events[event_type] = "view_product"
+)
+
+
+Add To Cart Events =
+CALCULATE(
+    COUNTROWS(events),
+    events[event_type] = "add_to_cart"
+)
+
+
+Checkout Events =
+CALCULATE(
+    COUNTROWS(events),
+    events[event_type] = "begin_checkout"
+)
+
+
+Purchase Events =
+CALCULATE(
+    COUNTROWS(events),
+    events[event_type] = "purchase"
+)
+
+
+Product View Sessions =
+CALCULATE(
+    DISTINCTCOUNT(events[session_id]),
+    events[event_type] = "view_product"
+)
+
+
+Cart Sessions =
+CALCULATE(
+    DISTINCTCOUNT(events[session_id]),
+    events[event_type] = "add_to_cart"
+)
+
+
+Checkout Sessions =
+CALCULATE(
+    DISTINCTCOUNT(events[session_id]),
+    events[event_type] = "begin_checkout"
+)
+
+
+Purchase Sessions =
+CALCULATE(
+    DISTINCTCOUNT(events[session_id]),
+    events[event_type] = "purchase"
+)
+
+
+Session To Purchase Conversion (%) =
+DIVIDE(
+    [Purchase Sessions],
+    [Total Sessions],
+    0
+) * 100
+
+
+Cart Abandonment (%) =
+DIVIDE(
+    [Cart Sessions] - [Purchase Sessions],
+    [Cart Sessions],
+    0
+) * 100
+
+
+Checkout Abandonment (%) =
+DIVIDE(
+    [Checkout Sessions] - [Purchase Sessions],
+    [Checkout Sessions],
+    0
+) * 100
+
+
+// =====================================================
+// 5. PRODUCT & SALES PERFORMANCE
+// =====================================================
+
+Total Units Sold =
+SUM(order_items[quantity])
+
+
+Total Order Items =
+COUNTROWS(order_items)
+
+
+Average Items Per Order =
+DIVIDE(
+    [Total Order Items],
+    [Total Orders],
+    0
+)
+
+
+Revenue Per Session =
+DIVIDE(
+    [Total Revenue],
+    [Total Sessions],
+    0
+)
+
+
+Orders Per Session =
+DIVIDE(
+    [Total Orders],
+    [Total Sessions],
+    0
+)
+
+
+// =====================================================
+// END OF DAX MEASURES
+// =====================================================
